@@ -1,0 +1,65 @@
+Bureau of Justice Statistics,,,
+filename:  jeeus0304.csv,,,
+"table #:  4  Per capita justice expenditure of State governments, 2003",,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,
+author:  Kristen A. Hughes ,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,
+date of version:  5/10/2006,,,
+
+"Table 4.  Per capita justice expenditure of State governments, 2003",,,
+
+State,Population,Total,Per capita 
+Alaska,"648,510","$402,981,000 ",$621 
+Delaware,"817,827","391,138,000",478
+Connecticut,"3,485,881","1,295,675,000",372
+Massachusetts,"6,417,565","2,195,841,000",342
+Wyoming,"501,915","166,963,000",333
+Maryland,"5,512,477","1,779,373,000",323
+Vermont,"619,092","185,909,000",300
+New Mexico,"1,879,252","550,994,000",293
+Virginia,"7,383,387","2,151,666,000",291
+Rhode Island,"1,075,729","304,930,000",283
+California,"35,456,602","9,999,263,000",282
+Hawaii,"1,248,200","340,525,000",273
+New Jersey,"8,640,028","2,331,274,000",270
+New York,"19,228,031","5,119,031,000",266
+Oregon,"3,562,681","905,606,000",254
+Kentucky,"4,116,780","995,024,000",242
+Pennsylvania,"12,364,930","2,952,157,000",239
+Wisconsin,"5,471,792","1,288,541,000",235
+Louisiana,"4,490,380","1,034,713,000",230
+Colorado,"4,548,071","1,040,540,000",229
+All State*,"290,292,159","66,114,297,000",228
+Michigan,"10,078,146","2,263,094,000",225
+Oklahoma,"3,504,917","766,469,000",219
+Montana,"917,885","198,787,000",217
+Kansas,"2,724,224","582,578,000",214
+Iowa,"2,941,362","624,765,000",212
+North Carolina,"8,422,375","1,740,172,000",207
+Utah,"2,378,696","489,339,000",206
+Ohio,"11,431,748","2,279,090,000",199
+Florida,"16,993,369","3,349,401,000",197
+Georgia,"8,746,849","1,716,621,000",196
+Maine,"1,308,245","254,318,000",194
+Arizona,"5,577,784","1,073,579,000",192
+Texas,"22,099,136","4,232,878,000",192
+Idaho,"1,368,111","261,872,000",191
+West Virginia,"1,810,347","339,981,000",188
+Arkansas,"2,726,166","505,996,000",186
+New Hampshire,"1,287,594","235,600,000",183
+Washington,"6,131,131","1,121,650,000",183
+Missouri,"5,718,717","1,033,070,000",181
+Minnesota,"5,061,662","904,850,000",179
+South Carolina,"4,146,753","740,178,000",178
+Nebraska,"1,738,013","301,564,000",174
+South Dakota,"764,599","132,376,000",173
+Illinois,"12,649,940","2,089,490,000",165
+Alabama,"4,501,862","712,838,000",158
+Tennessee,"5,841,585","914,068,000",156
+Indiana,"6,196,269","959,292,000",155
+North Dakota,"633,051","97,689,000",154
+Mississippi,"2,880,793","432,090,000",150
+Nevada,"2,241,700","328,458,000",147
+"Note: Population figures are from the U.S. Census Bureau, Annual Population Estimates 2000-2005.",,,
+"Source: Criminal Justice Expenditure and employment Extracts Program (CJEE), table 9. <www.ojp.usdoj.gov/bjs/eande.htm>"

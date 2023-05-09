@@ -1,0 +1,82 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename:  jeeus0917.csv,,,,,,,,,,,
+"Table 17. Police protection sworn and nonsworn employment and payrolls and percent distribution of full-time equivalent employment of 49 large city governments, March 2009 (final)",,,,,,,,,,,
+"Series title:  Justice Expenditure and Employment Extracts 2009, NCJ 247018",,,,,,,,,,,
+Data source:  Justice Expenditure and Employment Extracts Program (JEE),,,,,,,,,,,
+Author: Tracey Kyckelhahn,,,,,,,,,,,
+Refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,,,,,
+Date of version:  ,,,,,,,,,,,
+,,,,,,,,,,,
+"Table 17. Police protection sworn and nonsworn employment and payrolls and percent distribution of full-time equivalent employment of 49 large city governments, March 2009 (revised)",,,,,,,,,,,
+(Payroll amounts in thousands of dollars.),,,,,,,,,,,
+,,,,,,,,,,,
+,Sworn,,,,,,Nonsworn,,,,
+,,,,,,,,,,,
+,Number of,,Fulltime equivalent,,,,Number of,,Fulltime equivalent,,
+,employees,,employment,,,,employees,,employment,,
+,,,,,,,,,,,
+,,,,Percent of,,Average,,,,Percent of,
+,,,,total police,,earnings of,,,,total police,
+,,,,protection,,fulltime,,,,protection,
+,,Fulltime,,fulltime,March,employees,,Fulltime,,fulltime,March
+City,Total,only,Number,equivalent,payrolls,(dollars),Total,only,Number,equivalent,payrolls
+,,,,,,,,,,,
+"Albuquerque, NM",973,967,970,67.3,4987,5144,586,397,472,32.7,1360
+"Atlanta, GA",1744,1744,1744,77,6668,3824,521,521,521,23,2049
+"Austin, TX",1571,1571,1571,69.5,11436,7280,772,652,690,30.5,2454
+"Baltimore, MD",3020,3020,3020,79.6,18544,6140,889,670,774,20.4,2565
+"Baton Rouge, LA",730,730,730,58.1,2533,3470,598,381,526,41.9,1570
+"Boston, MA",2219,2219,2219,74.4,14677,6614,879,670,764,25.6,2965
+,,,,,,,,,,,
+"Buffalo, NY",792,792,792,80.5,4730,5973,254,140,192,19.5,635
+"Charlotte, NC",1696,1678,1688,80.5,8851,5256,459,400,409,19.5,1792
+"Chicago, IL",16764,16764,16764,91.7,57336,3420,2433,1357,1524,8.3,3584
+"Cincinnati, OH",1124,1124,1124,79.3,6116,5441,340,229,293,20.7,876
+"Cleveland, OH",1493,1493,1493,85.1,7751,5191,262,261,262,14.9,924
+"Columbus, OH",1898,1898,1898,85.4,12207,6431,325,321,324,14.6,1348
+,,,,,,,,,,,
+"Dallas, TX",3422,3422,3422,74,21426,6261,1471,1094,1200,26,2809
+"Denver, CO",1507,1507,1507,76.5,10124,6718,518,438,464,23.5,2062
+"Detroit, MI",3048,3048,3048,89.7,17607,5776,350,350,350,10.3,1457
+"El Paso, TX",1153,1153,1153,76.6,5937,5149,355,351,352,23.4,985
+"Fort Worth, TX",1573,1573,1573,80.3,8543,5431,385,385,385,19.7,1342
+"Honolulu, HI",2075,2075,2075,77.9,11972,5770,660,550,588,22.1,2257
+,,,,,,,,,,,
+"Houston, TX",5089,5089,5089,72.9,32470,6380,1927,1877,1888,27.1,5799
+"Indianapolis, IN",2280,2278,2279,78.1,9690,4252,673,634,640,21.9,1896
+"Jacksonville, FL",1695,1695,1695,72.2,7845,4628,729,594,654,27.8,2368
+"Kansas City, MO",1410,1410,1410,68.7,8178,5800,642,642,642,31.3,2622
+"Long Beach, CA",1010,1008,1010,72.2,8313,8238,427,324,389,27.8,1757
+"Los Angeles, CA",9844,9839,9844,75.4,87800,8923,3235,3193,3210,24.6,18725
+,,,,,,,,,,,
+"Memphis, TN",2107,2107,2107,76.5,9348,4437,740,520,646,23.5,2055
+"Miami, FL",1066,1066,1066,69.7,7718,7240,493,454,463,30.3,1859
+"Milwaukee, WI",1938,1938,1938,78.5,11445,5905,709,474,531,21.5,1721
+"Minneapolis, MN",896,896,896,71.4,5579,6227,359,359,359,28.6,1493
+"Nashville, TN",1271,1271,1271,73.7,6929,5451,551,357,454,26.3,1515
+"Newark, NJ",826,826,826,81.9,6029,7298,424,143,182,18.1,574
+,,,,,,,,,,,
+"New Orleans, LA",1829,1825,1829,97.5,6779,3712,46,45,46,2.5,226
+"New York, NY",50150,47685,48230,92.8,284843,5913,3865,3674,3744,7.2,21959
+"Oakland, CA",851,850,851,75.3,8187,9629,281,276,279,24.7,2199
+"Oklahoma City, OK",1128,1037,1051,81.6,6242,5986,256,222,237,18.4,1254
+"Omaha, NE",827,785,810,83.4,4382,5468,167,146,161,16.6,559
+"Philadelphia, PA",6834,6834,6834,85.7,39195,5735,1859,853,1136,14.3,4836
+,,,,,,,,,,,
+"Phoenix, AZ",3349,3349,3349,73.9,19090,5700,1340,1127,1183,26.1,5016
+"Pittsburgh, PA",887,887,887,87,4276,4821,194,64,133,13,388
+"Portland, OR",885,855,873,63,6179,7168,521,508,513,37,2486
+"St.Louis, MO",1400,1400,1400,69.9,6354,4539,603,602,602,30.1,2033
+"San Antonio, TX",2260,2260,2260,77.7,11056,4892,789,528,647,22.3,1745
+"San Diego, CA",2540,2411,2448,93.8,17391,7156,168,160,162,6.2,850
+,,,,,,,,,,,
+"San Francisco, CA",2792,2364,2546,85.6,24441,9828,428,428,428,14.4,2414
+"San Jose, CA",1465,1465,1465,77.6,12933,8828,558,360,423,22.4,2708
+"Seattle, WA",1671,1671,1671,74.7,10527,6300,613,538,566,25.3,2842
+"Toledo, OH",681,681,681,84.8,3571,5244,122,122,122,15.2,404
+"Tucson, AZ",996,993,995,69.8,5986,6020,433,429,431,30.2,1974
+"Tulsa, OK",818,818,818,83.3,4417,5400,224,133,164,16.7,483
+"Washington, DC",4065,4065,4065,86.9,24775,6095,697,564,612,13.1,2463
+,,,,,,,,,,,
+Note:  Payroll data shown here may not sum to equal police protection March payroll data in table 16 due to rounding.,,,,,,,,,,,
+Jurisdictions without data did not report for 2009.,,,,,,,,,,,

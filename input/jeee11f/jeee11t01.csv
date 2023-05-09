@@ -1,0 +1,30 @@
+Bureau of Justice Statistics,,,,,,,,,,,,
+Filename: jeee11t01.csv,,,,,,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system by type of government, fiscal 2011",,,,,,,,,,,,
+"Report title: Justice Expenditure and Employment Extracts 2011 Final, NCJ 250631",,,,,,,,,,,,
+Data source: Justice Expenditure and Employment Extracts Program (JEEE),,,,,,,,,,,,
+"Author: Jennifer Bronson, Ph.D., BJS Statistician",,,,,,,,,,,,
+Refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,,,,,,
+Date of version: 6/29/2018,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 1. Percent distribution of expenditure for the justice system by type of government, fiscal 2011",,,,,,,,,,,,
+,,,,,,,,,,,,
+,Amount (thousands of dollars),,,,,,,Percent distribution,,,,
+Activity,All governments/a,Federal government,,State government,,Local government,,Federal government,,State government,,Local government
+Total justice system,274630000,56056000,,86017873,,132550000,,-,,-,,-
+Direct expenditure,264360000,51424000,,80613651,,132320000,,19.5,,30.5,,50.1
+Intergovernmental expenditure,-,4632000,,5404222,,230802,,-,,-,,-
+,,,,,,,,,,,,
+Police protection,130650000,32486405,,14248537,,83914213,,-,,-,,-
+Direct expenditure,126570000,29802000,,12857062,,83909113,,23.5,,10.2,,66.3
+Intergovernmental expenditure,-,2684405,,1391475,,5100,,-,,-,,-
+,,,,,,,,,,,,
+Judicial and legal,60945839,16433966,,22602337,,21909536,,-,,-,,-
+Direct expenditure,58001983,15076000,,21045486,,21880497,,26,,36.3,,37.7
+Intergovernmental expenditure,-,1357966,,1556851,,29039,,-,,-,,-
+,,,,,,,,,,,,
+Corrections,83031538,7135629,,49166999,,26728910,,-,,-,,-
+Direct expenditure,79789350,6546000,,46711103,,26532247,,8.2,,58.5,,33.3
+Intergovernmental expenditure,-,589629,,2455896,,196663,,-,,-,,-
+"Note: Local government data are estimates subject to sampling variability. Federal Government data are for the fiscal period beginning October 1, 2010 and ending September 30, 2011.",,,,,,,,,,,,
+"a/The total lines for each criminal justice activity, and for the total justice system, exclude duplicative intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) expended the amount.  The intergovernmental expenditure lines are not totaled for the same reason.",,,,,,,,,,,,

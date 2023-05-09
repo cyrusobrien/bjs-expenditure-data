@@ -1,0 +1,80 @@
+Bureau of Justice Statistics,,,,,,
+Filename:  jeeus0920.csv,,,,,,
+Table 20.  Supplemental data for 49 large city governments (final),,,,,,
+"Series title:  Justice Expenditure and Employment Extracts 2009, NCJ 247018",,,,,,
+Data source:  Justice Expenditure and Employment Extracts Program (JEE),,,,,,
+Author: Tracey Kyckelhahn,,,,,,
+Refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,
+Date of version:  ,,,,,,
+,,,,,,
+Table 20.  Supplemental data for 49 large city governments (revised),,,,,,
+,,,,,,
+,,"Expenditures, fiscal year 2009",,,"Full-time equivalent employment,",
+,,(thousands of dollars),,,9-Mar,
+,,,,,,
+,,All functions,,,,
+,,,,,,
+,"Population,",Total (direct and,Direct expenditure,Total general,,General functions
+City,2009/a,intergovernmental),only,expenditure/b,All functions,only/c
+,,,,,,
+"Albuquerque, NM",529219,933775,933775,756108,6774,5957
+"Atlanta, GA",540922,2396558,2324605,1902304,7934,7576
+"Austin, TX",786386,3071874,3071874,1432409,12736,10608
+"Baltimore, MD",637418,3482721,3394754,3074646,28354,27304
+"Baton Rouge, LA",225388,1058080,1056719,971969,7685,7511
+"Boston, MA",645169,3525601,3223678,3050569,21088,20868
+,,,,,,
+"Buffalo, NY",270240,1491697,1489670,1469618,9854,9731
+"Charlotte, NC",704422,1690845,1680209,1395935,6846,5760
+"Chicago, IL",2850498,9015868,9012772,7215383,37760,36412
+"Cincinnati, OH",333012,1159714,1105649,861085,5678,5106
+"Cleveland, OH",431369,1439870,1431338,960362,7675,6197
+"Columbus, OH",757435,1463151,1462138,1254832,8081,7466
+,,,,,,
+"Dallas, TX",1299542,3291484,3281976,2620824,16662,15395
+"Denver, CO",610345,2790937,2790937,2372547,12573,11425
+"Detroit, MI",910921,3887685,3841207,2606444,13672,10541
+"El Paso, TX",620456,883462,883462,617680,5991,5208
+"Fort Worth, TX",727577,1190544,1190544,921847,6461,5889
+"Honolulu, HI",907574,2027776,2027776,1645011,9485,8924
+,,,,,,
+"Houston, TX",2257926,4887152,4842796,4134514,22606,21759
+"Indianapolis, IN",807584,3780312,3631046,2967736,13378,11788
+"Jacksonville, FL",813518,4327256,4186139,2097030,9553,8860
+"Kansas City, MO",482299,1683873,1634640,1527995,6769,6246
+"Long Beach, CA",462604,1574618,1574618,1351772,6320,5166
+"Los Angeles, CA",3831868,14698108,14694991,8799473,53168,44241
+,,,,,,
+"Memphis, TN",676640,4291738,4289686,2114369,24638,21433
+"Miami, FL",433136,872205,872205,724375,4155,4155
+"Milwaukee, WI",605013,1233381,1197952,938379,6841,6526
+"Minneapolis, MN",385378,1152624,1106901,891265,5166,4916
+"Nashville, TN",605473,3628704,3626934,2172797,21588,20069
+"Newark, NJ",278154,870510,810865,844784,3606,3606
+,,,,,,
+"New Orleans, LA",354850,1594690,1594690,1456423,6636,5661
+"New York, NY",8391881,98893889,91885758,76496609,423624,371201
+"Oakland, CA",409189,1492094,1492094,1418750,5333,5333
+"Oklahoma City, OK",560333,1039782,1039782,876574,4554,4039
+"Omaha, NE",454731,601120,590098,526949,2853,2853
+"Philadelphia, PA",1547297,6973458,6845600,5281361,30440,27433
+,,,,,,
+"Phoenix, AZ",1593659,3887206,3872547,3145633,15576,14589
+"Pittsburgh, PA",311647,593548,593548,513675,4187,4187
+"Portland, OR",566143,1470300,1470300,1225298,5854,5228
+"St.Louis, MO",356587,1095241,1068776,949007,6546,6200
+"San Antonio, TX",1373668,4679421,4679421,1725061,15477,10702
+"San Diego, CA",1306300,3007317,2999232,2333179,10455,9701
+,,,,,,
+"San Francisco, CA",815358,7660231,7660231,5671379,27150,22400
+"San Jose, CA",964695,2183620,2102502,1990894,7011,6876
+"Seattle, WA",616627,2827867,2702585,1597777,12439,9725
+"Toledo, OH",316179,463801,436958,417336,2884,2581
+"Tucson, AZ",543910,1033457,1033457,710220,5557,5048
+"Tulsa, OK",389625,741748,741357,599249,4257,3731
+"Washington, DC",599657,10886057,10589578,10434105,35085,34724
+,,,,,,
+Note: Jurisdictions without data did not report for 2009.,,,,,,
+"a/ Population data are from the Bureau of the Census, July 1, 2010 Population Estimates for Places and Minor Civil Divisions.",,,,,,
+"b/ ""Total general expenditure"" excludes utilities, city-operated liquor stores, and insurance benefits.",,,,,,
+"c/ ""General functions only"" FTE excludes utilities and city-operated liquor stores.",,,,,,

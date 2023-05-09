@@ -1,0 +1,20 @@
+Bureau of Justice Statistics,,,,,,,,,
+filename:  jeeus03ap.csv,,,,,,,,,
+"table #:  Appendix table. Total and per capita justice expenditure across government and by function, selected years, 1982-2003",,,,,,,,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,,,,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,,,
+author:  Kristen A. Hughes ,,,,,,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,
+date of version:  5/10/2006,,,,,,,,,
+,,Expenditures in millions of dollars,,,,,,,
+,,Justice expenditure across government and function,,Police protection expenditure,,Judicial and legal expenditure ,, Corrections expenditure,
+Year,Population,Total,Per capita,Total,Per capita,Total,Per capita,Total,Per capita
+2003,"290,850,000","$185,490 ",$638 ,"$83,089 ",$286 ,"$41,545 ",$143 ,"$60,855 ",$209 
+2002,"287,985,000","$179,580 ",$624 ,"$79,540 ",$276 ,"$40,431 ",$140 ,"$59,609 ",$207 
+1997,"267,784,000","$129,793 ",$485 ,"$57,754 ",$216 ,"$28,529 ",$107 ,"$43,511 ",$162 
+1992,"245,807,000","$93,777 ",$382 ,"$41,327 ",$168 ,"$20,989 ",$85 ,"$31,461 ",$128 
+1987,"243,400,000","$58,879 ",$242 ,"$28,778 ",$118 ,"$12,539 ",$52 ,"$17,562 ",$72 
+1982,"226,548,000","$35,685 ",$158 ,"$28,778 ",$84 ,"$7,771 ",$34 ,"$8,892 ",$39 
+
+"Note: Using the Consumer Price Index (CPI) to adjust the 2003 per capita figure of $638 for inflation would yield approximately $335 in 1982 dollars. For more information on the CPI see the Bureau of Labor Statistics website <www.bls.gov>. Population figures are from the U.S. Census Bureau, Annual Population Estimates 2000 - 2005.",,,,,,,,,
+"Population figures are from the U.S. Census Bureau, Annual Population Estimates 2000 - 2005.",,,,,,,,,

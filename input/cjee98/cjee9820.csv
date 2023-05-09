@@ -1,0 +1,80 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  cjee9820.csv",,,,,,,,
+"table 20.  Supplemental data for 49 large city governments",,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1998, NCJ 190641",,,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,,
+"author:  Sidra Lea Gifford",,,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,
+"date of version:  9/19/2001",,,,,,,,
+,,,,,,,,
+"Table 20.  Supplemental data for 49 large city governments",,,,,,,,
+,,,,,,,,
+,,,"           Expenditures, fiscal year 1998 (thousands of dollars)",,,,"         Full-time equivalent employment,",
+,,,,,,,"                       March 1998",
+,,,"                           All functions",,,,,
+,,,,,,,,
+,,,"Total (direct","Direct",,,,"General"
+,"Population,",,"and inter-","expenditure","Total general",,,"functions"
+"City","1998/a",,"governmental)","only","expenditure/b",,"All functions","only/c"
+,,,,,,,,
+"Albuquerque, NM",419681,,688180,688180,551746,,6979,6290
+"Atlanta, GA",401907,,1066145,941521,814263,,7894,6904
+"Austin, TX",541278,,1168833,1117652,569047,,9611,7982
+"Baltimore, MD",675401,,2082196,1913855,1844462,,28719,28027
+"Baton Rouge, LA",372502,,531623,484789,472848,,6326,6215
+"Boston, MA",558394,,2193788,1731552,1865784,,19255,18982
+,,,,,,,,
+"Buffalo, NY",310548,,958661,943055,932060,,10868,10713
+"Charlotte, NC",441297,,697067,676795,527065,,4424,4211
+"Chicago, IL",2721547,,5053096,4367166,4076382,,42213,40180
+"Cincinnati, OH",345818,,773781,635894,606036,,6406,5857
+"Cleveland, OH",498246,,1065135,1061104,762154,,9019,7399
+"Columbus, OH",657053,,918272,903269,780192,,8406,7685
+,,,,,,,,
+"Dallas, TX",1053292,,1589510,1435153,1263122,,14903,13716
+"Denver, CO",497840,,1540471,1429726,1398557,,14067,12815
+"Detroit, MI",1000272,,2889585,2238554,1925506,,17715,13939
+"El Paso, TX",599865,,499598,464446,375265,,5503,4617
+"Fort Worth, TX",479716,,535830,490718,401257,,5769,5316
+"Honolulu, HI",871766,,1207033,1207033,995679,,9370,8665
+,,,,,,,,
+"Houston, TX",1744058,,2616067,2476907,2066324,,23045,21749
+"Indianapolis, IN",746737,,1375993,1326542,1291512,,11109,10805
+"Jacksonville, FL",679792,,1846359,1693307,1040545,,9190,7411
+"Kansas City, MO",441259,,842654,762312,693211,,7315,6719
+"Long Beach, CA",421904,,974557,973340,825496,,5369,4545
+"Los Angeles, CA",3553638,,8009592,7058343,4878633,,47507,38935
+,,,,,,,,
+"Memphis, TN",596725,,2375476,2242743,1267911,,22855,19744
+"Miami, FL",365127,,390506,323037,324837,,3412,3412
+"Milwaukee, WI",590503,,867216,701838,699716,,11684,11125
+"Minneapolis, MN",358785,,906545,755920,748387,,6279,5985
+"Nashville, TN",511263,,2344903,2262186,1470306,,19624,18453
+"Newark, NJ",268510,,610124,575729,568212,,5326,5076
+,,,,,,,,
+"New Orleans, LA",476625,,904689,856191,768880,,10982,9991
+"New York, NY",7380906,,51849593,43001298,41552405,,411651,373404
+"Oakland, CA",367230,,786557,730402,730402,,4840,4840
+"Oklahoma City, OK",469852,,587795,579729,525535,,4728,4273
+"Omaha, NE",364253,,275445,248364,254115,,2934,2934
+"Philadelphia, PA",1478002,,4878908,4369408,3728357,,29600,28388
+,,,,,,,,
+"Phoenix, AZ",1159014,,1730169,1683509,1414967,,12165,11307
+"Pittsburgh, PA",350363,,531595,469292,474763,,4090,4090
+"Portland, OR",480824,,813883,746725,672830,,5159,4656
+"St.Louis, MO",351565,,814988,710826,651218,,7781,7398
+"San Antonio, TX",1067816,,1821863,1789629,858338,,14968,10512
+"San Diego, CA",1171121,,1801227,1706052,1465662,,10810,8382
+,,,,,,,,
+"San Francisco, CA",735315,,4923853,4442675,4012566,,27189,22868
+"San Jose, CA",838744,,1048522,960579,886296,,6422,6383
+"Seattle, WA",524704,,1586433,1397479,1054028,,9477,7260
+"Toledo, OH",317606,,328231,318291,294861,,3003,2649
+"Tucson, AZ",459988,,599670,584347,424867,,5667,5045
+"Tulsa, OK",378491,,589925,586143,479218,,4321,3796
+"Washington, DC",543213,,5243355,4574883,4453702,,35477,36011
+,,,,,,,,
+"Note: Jurisdictions without data did not report for 1998.",,,,,,,,
+"a/ Population data are from the Bureau of the Census, July 1, 1998 Population Estimates for Places and Minor Civil Divisions.",,,,,,,,
+"b/ ""Total general expenditure"" excludes utilities, city-operated liquor stores, and insurance benefits.",,,,,,,,
+"c/ ""General functions only"" FTE excludes utilities and city-operated liquor stores.",,,,,,,,

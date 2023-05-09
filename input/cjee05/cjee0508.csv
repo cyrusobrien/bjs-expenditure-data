@@ -1,0 +1,79 @@
+Bureau of Justice Statistics,,,,,,,,,,
+filename:  cjee0508.csv,,,,,,,,,,
+"table #.  8 Per capita justice expenditure (fiscal 2005) and full-time equivalent justice employment per 10,000 population (March 2005) of State and local governments, by activity and State",,,,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 2005, NCJ 219370",,,,,,,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,,,,
+author:  Kristen Hughes,,,,,,,,,,
+refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,,,,
+date of version:  8/10/2007,,,,,,,,,,
+
+"Table 8.   Per capita justice expenditure (fiscal 2005) and full-time equivalent justice employment per 10,000 population (July 2005) of State and local governments by, activity and State",,,,,,,,,,
+
+,,"Per capita justice expenditure, fiscal 2005",,,,"Full-time equivalent justice employment per 10,000 population, March 2005",,,,
+State,"Population, 2005",Total justice system,Police protection,Judicial and legal,Corrections,Total justice system,Police protection ,,Judicial and legal,Corrections
+,,,,,,,Total,Sworn only,,
+
+Total,"296,410,404",$569 ,$251 ,$118 ,$200 ,$68 ,$30 ,$23 ,$14 ,$24 
+
+Alabama,"4,557,808",$387 ,$181 ,$74 ,$133 ,$57 ,$29 ,$22 ,$11 ,$17 
+Alaska,"663,661",$841 ,$311 ,$231 ,$299 ,$73 ,$25 ,$17 ,$20 ,$27 
+Arizona,"5,939,292",$603 ,$258 ,$130 ,$215 ,$77 ,$33 ,$25 ,$18 ,$26 
+Arkansas,"2,779,154",$413 ,$173 ,$75 ,$164 ,$64 ,$29 ,$21 ,$12 ,$23 
+California,"36,132,147",$815 ,$340 ,$203 ,$272 ,$64 ,$28 ,$18 ,$14 ,$22 
+
+Colorado,"4,665,177",$539 ,$255 ,$92 ,$192 ,$63 ,$28 ,$20 ,$13 ,$22 
+Connecticut,"3,510,297",$559 ,$238 ,$155 ,$165 ,$66 ,$31 ,$24 ,$14 ,$22 
+Delaware,"843,524",$700 ,$282 ,$160 ,$258 ,$81 ,$30 ,$21 ,$19 ,$32 
+District of Columbia,"550,521","$1,153 ",$753 ,$101 ,$299 ,$131 ,$78 ,$69 ,$31 ,$22 
+Florida,"17,789,864",$640 ,$317 ,$113 ,$211 ,$78 ,$36 ,$23 ,$18 ,$25 
+
+Georgia,"9,072,576",$493 ,$190 ,$99 ,$204 ,$74 ,$29 ,$23 ,$14 ,$31 
+Hawaii,"1,275,194",$535 ,$210 ,$192 ,$134 ,$68 ,$28 ,$22 ,$22 ,$18 
+Idaho,"1,429,096",$453 ,$182 ,$95 ,$175 ,$58 ,$26 ,$19 ,$12 ,$21 
+Illinois,"12,763,371",$511 ,$281 ,$95 ,$135 ,$70 ,$38 ,$29 ,$13 ,$19 
+Indiana,"6,271,973",$382 ,$168 ,$62 ,$152 ,$63 ,$28 ,$20 ,$12 ,$23 
+
+Iowa,"2,966,334",$381 ,$180 ,$91 ,$110 ,$52 ,$26 ,$19 ,$12 ,$15 
+Kansas,"2,744,687",$443 ,$212 ,$98 ,$133 ,$70 ,$34 ,$24 ,$14 ,$23 
+Kentucky,"4,173,405",$409 ,$161 ,$88 ,$160 ,$61 ,$26 ,$18 ,$16 ,$19 
+Louisiana,"4,523,628",$554 ,$234 ,$111 ,$209 ,$84 ,$37 ,$28 ,$17 ,$30 
+Maine,"1,321,505",$369 ,$164 ,$71 ,$134 ,$46 ,$22 ,$17 ,$7 ,$16 
+
+Maryland,"5,600,388",$642 ,$267 ,$114 ,$261 ,$71 ,$30 ,$21 ,$14 ,$27 
+Massachusetts,"6,398,743",$539 ,$246 ,$132 ,$162 ,$66 ,$37 ,$30 ,$14 ,$15 
+Michigan,"10,120,860",$562 ,$224 ,$114 ,$223 ,$58 ,$24 ,$19 ,$11 ,$23 
+Minnesota,"5,132,799",$483 ,$231 ,$112 ,$140 ,$49 ,$21 ,$15 ,$12 ,$17 
+Mississippi,"2,921,088",$362 ,$176 ,$63 ,$123 ,$58 ,$30 ,$21 ,$9 ,$19 
+
+Missouri,"5,800,310",$419 ,$200 ,$74 ,$145 ,$74 ,$32 ,$23 ,$14 ,$28 
+Montana,"935,670",$471 ,$193 ,$110 ,$167 ,$59 ,$27 ,$17 ,$14 ,$18 
+Nebraska,"1,758,787",$414 ,$170 ,$81 ,$164 ,$61 ,$29 ,$21 ,$11 ,$21 
+Nevada,"2,414,807",$718 ,$324 ,$163 ,$230 ,$68 ,$29 ,$18 ,$14 ,$24 
+New Hampshire,"1,309,940",$395 ,$193 ,$85 ,$117 ,$53 ,$28 ,$21 ,$9 ,$15 
+
+New Jersey,"8,717,925",$691 ,$325 ,$153 ,$213 ,$87 ,$42 ,$30 ,$26 ,$19 
+New Mexico,"1,928,384",$603 ,$246 ,$118 ,$239 ,$79 ,$31 ,$23 ,$17 ,$31 
+New York,"19,254,630",$802 ,$383 ,$165 ,$253 ,$91 ,$44 ,$38 ,$16 ,$30 
+North Carolina,"8,683,242",$427 ,$193 ,$59 ,$175 ,$66 ,$29 ,$23 ,$8 ,$29 
+North Dakota,"636,677",$352 ,$157 ,$90 ,$106 ,$50 ,$22 ,$18 ,$13 ,$15 
+
+Ohio,"11,464,042",$526 ,$230 ,$134 ,$162 ,$69 ,$29 ,$22 ,$18 ,$22 
+Oklahoma,"3,547,884",$420 ,$177 ,$75 ,$168 ,$61 ,$31 ,$21 ,$12 ,$19 
+Oregon,"3,641,056",$572 ,$250 ,$93 ,$229 ,$61 ,$24 ,$17 ,$13 ,$24 
+Pennsylvania,"12,429,616",$536 ,$192 ,$114 ,$230 ,$63 ,$25 ,$20 ,$14 ,$24 
+Rhode Island,"1,076,189",$569 ,$271 ,$134 ,$164 ,$57 ,$29 ,$21 ,$12 ,$16 
+
+South Carolina,"4,255,083",$369 ,$175 ,$58 ,$136 ,$64 ,$30 ,$24 ,$10 ,$24 
+South Dakota,"775,933",$359 ,$160 ,$79 ,$119 ,$51 ,$24 ,$18 ,$10 ,$17 
+Tennessee,"5,962,959",$418 ,$197 ,$82 ,$139 ,$64 ,$29 ,$22 ,$11 ,$23 
+Texas,"22,859,968",$467 ,$200 ,$80 ,$187 ,$67 ,$27 ,$20 ,$11 ,$30 
+Utah,"2,469,585",$489 ,$208 ,$111 ,$170 ,$56 ,$23 ,$16 ,$11 ,$21 
+
+Vermont,"623,050",$459 ,$216 ,$88 ,$155 ,$52 ,$22 ,$15 ,$11 ,$19 
+Virginia,"7,567,465",$502 ,$214 ,$85 ,$204 ,$66 ,$27 ,$21 ,$11 ,$28 
+Washington,"6,287,759",$525 ,$205 ,$105 ,$216 ,$57 ,$23 ,$16 ,$12 ,$22 
+West Virginia,"1,816,856",$356 ,$123 ,$100 ,$134 ,$54 ,$22 ,$17 ,$13 ,$19 
+Wisconsin,"5,536,201",$558 ,$245 ,$95 ,$218 ,$65 ,$29 ,$22 ,$11 ,$25 
+Wyoming,"509,294",$906 ,$290 ,$150 ,$466 ,$87 ,$39 ,$27 ,$18 ,$30 
+
+"Note:  Local government data are estimates subject to variability. Population figures are from the Bureau of the Census, Current Population Reports, Series P-25, No. 1045, July 2006.",,,,,,,,,,

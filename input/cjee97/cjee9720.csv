@@ -1,0 +1,81 @@
+"Bureau of Justice Statistics",,,,,,
+"filename:  cjee9720.csv",,,,,,
+"table 20:  Supplemental data for 49 large city governments",,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1997, NCJ 185672",,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,
+"author:  Sidra Lea Gifford",,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,
+"date of version:  11/29/2000",,,,,,
+,,,,,,
+"Table 20.  Supplemental data for 49 large city governments",,,,,,
+,,,,,,
+,,"               Expenditures, fiscal 1997 (thousands of dollars)",,,"       Full-time equivalent employment, ",
+,,,,,"                    March 1997",
+,,"                              All functions",,,,
+,,,,,,
+,,"Total (direct","Direct",,,"General"
+,"Population,","and inter-","expenditure","Total general",,"functions"
+"City","1996/a","governmental)","only","expenditure/b","All functions","only/c"
+,,,,,,
+"Albuquerque, NM",419681,782694,782694,623247,6452,6452
+"Atlanta, GA",401907,1143359,1123245,887683,7950,7950
+"Austin, TX",541278,1200168,1187105,629427,9816,9816
+"Baltimore, MD",675401,2056120,2048063,1842018,28013,28013
+"Baton Rouge, LA",372502,543150,542638,500109,6114,6114
+"Boston, MA",558394,2112530,1888339,1859248,22194,22194
+,,,,,,
+"Buffalo, NY",310548,949585,935961,931026,11234,11234
+"Charlotte, NC",441297,680084,671573,527233,4664,4664
+"Chicago, IL",2721547,5097961,5022672,4144017,41705,41705
+"Cincinnati, OH",345818,703948,646591,647941,6357,6357
+"Cleveland, OH",498246,975707,972308,643289,8677,8677
+"Columbus, OH",657053,892082,879189,757294,8205,8205
+,,,,,,
+"Dallas, TX",1053292,1478982,1448568,1194426,15232,15232
+"Denver, CO",497840,1764750,1697700,1635204,13785,13785
+"Detroit, MI",1000272,2555240,2477353,1788987,17450,17450
+"El Paso, TX",599865,436045,434021,316830,5609,5609
+"Fort Worth, TX",479716,492063,492063,433457,,
+"Honolulu, HI",871766,1169547,1169547,958090,9317,9317
+,,,,,,
+"Houston, TX",1744058,2409623,2389375,1907215,22878,22878
+"Indianapolis, IN",746737,1289500,1279223,1222878,11241,11241
+"Jacksonville, FL",679792,1739957,1706500,1018943,9773,9773
+"Kansas City, MO",441259,912962,887224,783866,6503,6503
+"Long Beach, CA",421904,1193471,1193471,962407,5124,5124
+"Los Angeles, CA",3553638,7953102,7894681,4935452,47760,47760
+,,,,,,
+"Memphis, TN",596725,2248157,2229612,1187872,21844,21844
+"Miami, FL",365127,476682,474882,416376,3214,3214
+"Milwaukee, WI",590503,886714,852274,720567,8121,8121
+"Minneapolis, MN",358785,809661,777512,667682,5740,5740
+"Nashville, TN",511263,2174012,2174012,1355766,18614,18614
+"Newark, NJ",268510,529491,494082,492506,,
+,,,,,,
+"New Orleans, LA",476625,844046,844046,703178,10260,10260
+"New York, NY",7380906,50811852,47723016,41433578,398880,398880
+"Oakland, CA",367230,845503,845209,786921,4033,4033
+"Oklahoma City, OK",469852,511009,511009,440971,4753,4753
+"Omaha, NE",364253,287598,283295,268168,3223,3223
+"Philadelphia, PA",1478002,4517994,4406274,3445451,29029,29029
+,,,,,,
+"Phoenix, AZ",1159014,1547341,1539417,1291768,11970,11970
+"Pittsburgh, PA",350363,579265,570228,493928,4161,4161
+"Portland, OR",480824,806334,803129,686370,5157,5157
+"St.Louis, MO",351565,752375,722022,630766,7899,7899
+"San Antonio, TX",1067816,1771123,1768616,856914,14902,14902
+"San Diego, CA",1171121,1864801,1863773,1529193,10624,10624
+,,,,,,
+"San Francisco, CA",735315,4528332,4417211,3594316,27342,27342
+"San Jose, CA",838744,968989,948542,850551,6193,6193
+"Seattle, WA",524704,1632738,1520291,1117867,9511,9511
+"Toledo, OH",317606,330611,320712,300942,3092,3092
+"Tucson, AZ",459988,585399,585399,426890,5086,5086
+"Tulsa, OK",378491,616480,616480,511706,4333,4333
+"Washington, DC",543213,5170105,4988196,4517675,39208,39208
+,,,,,,
+,,,,,,
+"Note: Jurisdictions without data did not report for 1997.",,,,,,
+"a/ Population data are from the Bureau of the Census, July 1, 1997 Population Estimates for Places and Minor Civil Divisions.",,,,,,
+"b/ ""Total general expenditure"" excludes utilities, city-operated liquor stores, and insurance benefits.",,,,,,
+"c/ ""General functions only"" full-time equivalent employment excludes utilities and city-operated liquor stores.",,,,,,

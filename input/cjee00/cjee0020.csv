@@ -1,0 +1,78 @@
+"Bureau of Justice Statistics",,,,,,
+"filename:  cjee0020.csv",,,,,,
+"table #:  20 Supplemental data for 49 large city governments",,,,,,
+"series title:  Justice Expenditure and Employment Extracts 2000, NCJ 202792",,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,
+"author:  Lynn Bauer",,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,
+"date of version:  12/19/2003",,,,,,
+,,,,,,
+"Table 20.  Supplemental data for 49 large city governments",,,,,,
+,,,,,,
+,,,,,"Full-time equivalent employment, March 2000",
+,,"Expenditures, fiscal 2000 (thousands of dollars)",,,,
+,,,,,,
+,,"All functions",,,,
+"City","Population 2000/a","Total (direct and intergovernmental)","Direct expenditure only","Total general expenditure/b","All functions","General functions only/c"
+,,,,,,
+"Albuquerque, NM",448607,762497.00,762497.00,622697.00,6573,5571
+"Atlanta, GA",416474,1345760.00,1323782.00,945169.00,8619,7532
+"Austin, TX",656562,1607181.00,1607181.00,879171.00,10096,8276
+"Baltimore, MD",651154,2304231.00,2257853.00,1972389.00,29211,28488
+"Baton Rouge, LA",387784,536647.00,536647.00,479113.00,6017,5851
+"Boston, MA",589141,2629931.00,2397958.00,2099102.00,22022,21747
+,,,,,,
+"Buffalo, NY",292648,1031907.00,1030175.00,1003115.00,10462,10322
+"Charlotte, NC",540828,890868.00,887928.00,653341.00,5065,4617
+"Chicago, IL",2896016,6021880.00,5961538.00,4804941.00,40655,38669
+"Cincinnati, OH",331285,895496.00,860285.00,735090.00,6362,5807
+"Cleveland, OH",478403,1199451.00,1194932.00,886744.00,9360,7710
+"Columbus, OH",711470,1150942.00,1130822.00,981383.00,8781,8100
+,,,,,,
+"Dallas, TX",1188580,1889072.00,1878326.00,1549823.00,15198,14076
+"Denver, CO",554636,1656871.00,1634765.00,1413997.00,13666,12668
+"Detroit, MI",951270,4852716.00,4782257.00,3735690.00,36115,32357
+"El Paso, TX",563662,498253.00,498253.00,367121.00,5827,4938
+"Fort Worth, TX",534694,736486.00,736486.00,508636.00,5743,5315
+"Honolulu, HI",876156,1277997.00,1277997.00,1024799.00,9117,8438
+,,,,,,
+"Houston, TX",1953631,2557680.00,2541141.00,2085046.00,24877,23600
+"Indianapolis, IN",791926,2005088.00,1993827.00,1626410.00,11952,10484
+"Jacksonville, FL",735617,2094549.00,2034570.00,1137968.00,9718,7837
+"Kansas City, MO",441545,833378.00,804935.00,663322.00,6621,6045
+"Long Beach, CA",461522,1059677.00,1056583.00,839187.00,5670,4682
+"Los Angeles, CA",3694820,8682872.00,8639921.00,5201926.00,48375,41498
+,,,,,,
+"Memphis, TN",650100,2769343.00,2759224.00,1507642.00,26923,23776
+"Miami, FL",362470,440974.00,440974.00,372028.00,3632,3632
+"Milwaukee, WI",596974,979547.00,952398.00,751405.00,7707,7334
+"Minneapolis, MN",382618,825217.00,796711.00,627068.00,5771,5522
+"Nashville, TN",569891,2436630.00,2436630.00,1494163.00,19632,18094
+"Newark, NJ",273546,693069.00,657297.00,631814.00,5226,5088
+,,,,,,
+"New Orleans, LA",484674,813828.00,813828.00,696054.00,10058,9067
+"New York, NY",8008278,59180548.00,55238983.00,43880077.00,429297,387769
+"Oakland, CA",399484,1034389.00,1034389.00,977791.00,4236,4236
+"Oklahoma City, OK",506132,659929.00,659929.00,581421.00,4812,4359
+"Omaha, NE",390007,326527.00,324453.00,295967.00,2900,2900
+"Philadelphia, PA",1517550,5441970.00,5365959.00,4190052.00,30026,28350
+,,,,,,
+"Phoenix, AZ",1321045,2136639.00,2128533.00,1761518.00,12693,11836
+"Pittsburgh, PA",334563,579870.00,576215.00,477284.00,4297,4297
+"Portland, OR",529121,890381.00,880870.00,749049.00,5448,4914
+"St.Louis, MO",348189,888887.00,859602.00,741025.00,7619,7237
+"San Antonio, TX",1144646,2201130.00,2195652.00,1069427.00,15659,10818
+"San Diego, CA",1223400,2198919.00,2197903.00,1751387.00,11444,9530
+,,,,,,
+"San Francisco, CA",776733,5549217.00,5414607.00,4433286.00,27693,22858
+"San Jose, CA",894943,1276808.00,1251269.00,1138420.00,6875,6842
+"Seattle, WA",563374,1914707.00,1797758.00,1092419.00,10290,7718
+"Toledo, OH",313619,340881.00,330955.00,296962.00,2766,2469
+"Tucson, AZ",486699,689548.00,685424.00,498569.00,5831,5235
+"Tulsa, OK",393049,651348.00,651348.00,547802.00,4453,3952
+"Washington, DC",572059,5644375.00,5483415.00,5151970.00,36471,36056
+,,,,,,
+"Note: Jurisdictions without data did not report for 2000.",,,,,,
+"a/Population data are from the Bureau of the Census, July 1, 2000 Population Estimates for Places and Minor Civil Divisions.",,,,,,
+"b/ ""Total general expenditure"" excludes utilities, city-operated liquor stores, and insurance benefits.",,,,,,
+"c/ ""General functions only"" FTE excludes utilities and city-operated liquor stores.",,,,,,

@@ -1,0 +1,27 @@
+Bureau of Justice Statistics,,,,,
+filename:  jeeus0303.csv,,,,,
+"table #.  3  Expenditure by level of government and justice activity, fiscal year 2003",,,,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,
+author:  Kristen A. Hughes ,,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,
+date of version:  5/10/2006,,,,,
+
+"Table 3.  Expenditure by level of government and justice activity, fiscal year 2003",,,,,
+
+,,Amounts (millions of dollars) spent fiscal year 2003,,,
+Activity ,,All governments ,Federal government,State government,Local government
+Total justice system,,  - -,"$35,323 ","$66,114 ","$93,877 "
+,  Direct Expenditure,"$185,490 ","30,197","61,743","93,550"
+,  Intergovernmental, - - ,"5,126","4,371",327
+Police protection,, - - ,"$20,422 ","$11,144 ","$57,503 "
+,  Direct Expenditure,"$83,089 ","15,728","9,860","57,501"
+,  Intergovernmental, - - ,"4,694","1,284",2
+Judicial and legal,, - -,"$9,356 ","$15,782 ","$17,718 "
+,  Direct Expenditure,"$41,545 ","9,085","14,945","17,516"
+,  Intergovernmental, - -,271,837,203
+Corrections,, - -,"$5,545 ","$39,188 ","$18,656 "
+,  Direct Expenditure,"$60,855 ","5,384","36,938","18,533"
+,  Intergovernmental, - -,161,"2,250",123
+"Notes: Detail may not add to total because of rounding. Local government data are estimates subject to sampling variability. The total figure for each justice activity, and for the total justice system, exclude duplicative intergovernmental amounts. Artificial inflation would result if an intergovernmental expenditure of a government were tabulated and then counted again when the recipient government(s) spent the amount. The intergovernmental expenditure lines are not totaled for the same reason.",,,,,
+ - -Not applicable,,,,,

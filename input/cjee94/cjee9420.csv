@@ -1,0 +1,82 @@
+"Bureau of Justice Statistics",,,,,,,,,
+"filename:  cjee9420.csv",,,,,,,,,
+"table#:  20",,,,,,,,,
+"NCJ #:  175706",,,,,,,,,
+"data source:  1994 Criminal Justice Expenditure and Employment Extracts",,,,,,,,,
+"authors:  Lea S. Gifford and Sue Lindgren",,,,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,,
+"date of version:  4/15/99",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+"Table 20.   Supplemental data for 49 large city governments, 1994",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,"                                 Expenditures, fiscal 1994",,,,,"   Full-time equivalent employment,",
+,,,"                                   (thousands of dollars)",,,,,"                October 1994",
+,,,,,,,,,
+,,,"                           All functions",,,,,,
+,"Population,",,"Total (direct and","Direct expenditure",,"Total general",,,"General functions"
+"City"," 1990/a",,"intergovernmental)","only",,"expenditure/b",,"All functions","only/c"
+,,,,,,,,,
+"Albuquerque, NM",384736,,$620408,$620408,,$536756,,6031,5408
+"Atlanta, GA",394017,,933701,916874,,763804,,7893,6835
+"Austin, TX",465622,,1251045,1240489,,643699,,12214,10368
+"Baltimore, MD",736014,,1728616,1721940,,1560413,,27606,27221
+"Baton Rouge, LA",380105,,490720,488318,,460319,,6020,5917
+"Boston, MA",574283,,1926015,1711879,,1681366,,21074,20805
+,,,,,,,,,
+"Buffalo, NY",328123,,844603,835571,,830539,,13402,13232
+"Charlotte, NC",395934,,552056,545796,,462502,,4746,4370
+"Chicago, IL",2783726,,4201070,4129237,,3490617,,40879,38775
+"Cincinnati, OH",364040,,648771,597898,,538833,,,
+"Cleveland, OH",505616,,950156,947011,,643068,,8704,7037
+"Columbus, OH",632910,,770061,757985,,647356,,7075,6402
+,,,,,,,,,
+"Dallas, TX",1006877,,1539704,1509376,,1262140,,,
+"Denver, CO",467610,,2655579,2610354,,2496994,,13513,12463
+"Detroit, MI",1027974,,2070447,1985507,,1506392,,16931,13355
+"El Paso, TX",515342,,390683,388506,,292731,,5722,4816
+"Fort Worth, TX",447619,,467695,466443,,354072,,5154,4740
+"Honolulu, HI",836231,,1314995,1314995,,1094067,,9596,8877
+,,,,,,,,,
+"Houston, TX",1630553,,2055402,2027143,,1697930,,19860,18561
+"Indianapolis, IN",731327,,1286475,1278405,,1226994,,11812,11426
+"Jacksonville, FL",635230,,1597821,1571930,,864393,,9708,7795
+"Kansas City, MO",435146,,707135,683963,,608602,,6538,5951
+"Long Beach, CA",429433,,1343621,1343621,,1191473,,,
+"Los Angeles, CA",3485398,,6695557,6671395,,3682425,,49717,38525
+,,,,,,,,,
+"Memphis, TN",610337,,1915346,1896767,,985849,,,
+"Miami, FL",358548,,392539,390766,,347254,,,
+"Milwaukee, WI",628088,,761126,727179,,644247,,8418,7987
+"Minneapolis, MN",368383,,824602,792984,,689795,,,
+"Nashville, TN",488374,,1796662,1796662,,1037580,,18934,17476
+"Newark, NJ",275221,,399106,350896,,368265,,5308,5069
+,,,,,,,,,
+"New Orleans, LA",496938,,785162,785162,,673366,,,
+"New York, NY",7322564,,46304605,43219529,,38152607,,398403,353235
+"Oakland, CA",372242,,798999,797441,,754097,,4625,4625
+"Oklahoma City, OK",444719,,502193,502193,,417441,,5009,4550
+"Omaha, NE",335795,,244934,241752,,228951,,2875,2875
+"Philadelphia, PA",1585577,,3998386,3911671,,2956023,,29055,27831
+,,,,,,,,,
+"Phoenix, AZ",983403,,1336272,1331422,,1087703,,11565,10686
+"Pittsburgh, PA",369879,,492899,463106,,404213,,5376,5234
+"Portland, OR",437319,,626841,622364,,541026,,4995,4495
+"St.Louis, MO",396685,,609130,589677,,516235,,,
+"San Antonio, TX",935933,,1685100,1682442,,762846,,12917,8355
+"San Diego, CA",1110549,,1379738,1375527,,1114249,,10539,8156
+,,,,,,,,,
+"San Francisco, CA",723959,,3446121,3343174,,2622923,,24749,20368
+"San Jose, CA",782248,,846003,823793,,766002,,5759,5730
+"Seattle, WA",516259,,1330432,1248005,,783821,,10488,8034
+"Toledo, OH",332943,,266288,256836,,242334,,2999,2717
+"Tucson, AZ",405390,,482781,482781,,362597,,5016,4479
+"Tulsa, OK",367302,,480093,480093,,414904,,4261,3738
+"Washington, DC",570000,,5287654,5115207,,4748807,,42207,41561
+,,,,,,,,,
+,,,,,,,,,
+"Note: Jurisdictions without data did not report for 1994, but data is available for prior years.",,,,,,,,,
+"a/ Population data are from the Bureau of the Census, 1990 Decennial Census of Population and Housing.",,,,,,,,,
+"b/ ""Total general expenditure"" excludes utilities, city-operated liquor stores, and insurance benefits.",,,,,,,,,
+"c/ ""General functions only"" FTE excludes utilities and city-operated liquor stores.",,,,,,,,,

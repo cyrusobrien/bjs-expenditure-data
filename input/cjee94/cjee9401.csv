@@ -1,0 +1,41 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  cjee9401.csv",,,,,,,,
+"table#:  01",,,,,,,,
+"NCJ #:  175706",,,,,,,,
+"data source:  1994 Criminal Justice Expenditure and Employment Extracts",,,,,,,,
+"authors:  Lea S. Gifford and Sue Lindgren",,,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,
+"date of version:  5/3/99",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Table 1.  Percent distribution of expenditure for the justice system by type of government, fiscal 1994",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,"                                                    Amount (thousands of dollars) ",,,,,"                           Percent distribution",,
+,,,,,,,,
+,,"Federal","State","Local",,"Federal","State","Local"
+"Activity","All governments","Government","governments","governments",,"Government","governments","governments"
+,,,,,,,,
+"Total justice system/a",$103470564,$19084000,$37161391,$55517277,,"-","-","-"
+"   Direct expenditure",103470564,14626000,33495311,55349253,,14.1,32.4,53.5
+"   Intergovernmental expenditure","-",4458000,3666080,168024,,"-","-","-"
+,,,,,,,,
+"Police protection/a",46004536,8059000,6000330,33364901,,"-","-","-"
+"   Direct expenditure",46004536,7318000,5324906,33361630,,15.9,11.6,72.5
+"   Intergovernmental expenditure","-",741000,675424,3271,,"-","-","-"
+,,,,,,,,
+"Judicial and legal/a",22601706,8184000,8026326,11022716,,"-","-","-"
+"   Direct expenditure",22601706,4721000,6904352,10976354,,20.9,30.5,48.6
+"   Intergovernmental expenditure","-",3463000,1121974,46362,,"-","-","-"
+,,,,,,,,
+"Correction/a",34864322,2841000,23134735,11129660,,"-","-","-"
+"   Direct expenditure",34864322,2587000,21266053,11011269,,7.4,61,31.6
+"   Intergovernmental expenditure","-",254000,1868682,118391,,"-","-","-"
+,,,,,,,,
+,,,,,,,,
+"Note:  Local government data are estimates subject to sampling variability.",,,,,,,,
+"Federal Government data are for the fiscal period beginning October 1, 1993 and ending September 30, 1994.",,,,,,,,
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative",,,,,,,,
+"intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental ",,,,,,,,
+"expenditure of a government were tabulated and then counted again when the recipient government(s) expended",,,,,,,,
+"the amount.  The intergovernmental expenditure lines are not totaled for the same reason. ",,,,,,,,

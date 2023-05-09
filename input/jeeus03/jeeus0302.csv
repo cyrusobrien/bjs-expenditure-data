@@ -1,0 +1,29 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,,,,,,
+filename: jeeus0302.csv,,,,,,,,,,,,,,,,,,,,,,,
+"table #:  2 Total direct and intergovernmental expenditure of Federal, State, and local governments for each justice function, and percent change, fiscal years 1982-2003.",,,,,,,,,,,,,,,,,,,,,,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,,,,,,,,,,,,,,,,,,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,,,,,,,,,,,,,,,,,
+author:  Kristen A. Hughes ,,,,,,,,,,,,,,,,,,,,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,,,,,,,,,,,,,,
+date of version:  4/26/2006,,,,,,,,,,,,,,,,,,,,,,,
+
+"Table 2. Total direct and intergovernmental expenditure of Federal, State, and local governments for each justice function, and percent change, fiscal years 1982-2003.",,,,,,,,,,,,,,,,,,,,,,,
+
+,Federal,,,,,,,,State,,,,,,,,Local,,,,,,
+Expenditure (in millions),,,,,,,,,,,,,,,,,,,,,,,
+,Total,,Police protection,,Judicial and legal,,Corrections,,Total ,,Police protection,,Judicial and legal,,Corrections,,Total,,Police protection,,Judicial and legal ,,Corrections
+
+1982,"$4,458 ",,"$2,527 ",,"$1,390 ",,$541 ,,"$11,602 ",,"$2,833 ",,"$2,748 ",,"$6,020 ",,"$20,968 ",,"$14,172 ",,"$3,784 ",,"$3,011 "
+1987,"$7,496 ",,"$4,231 ",,"$2,271 ",,$994 ,,"$20,157 ",,"$4,067 ",,"$4,339 ",,"$11,691 ",,"$33,265 ",,"$21,089 ",,"$6,230 ",,"$5,947 ",
+1992,"$17,423 ",,"$7,400 ",,"$7,377 ",,"$2,646 ",,"$33,755 ",,"$5,593 ",,"$7,723 ",,"$20,439 ",,"$50,115 ",,"$29,659 ",,"$10,052 ",,"$10,404 ",
+1997,"$27,065 ",,"$12,518 ",,"$10,651 ",,"$3,896 ",,"$46,444 ",,"$7,501 ",,"$9,803 ",,"$29,141 ",,"$67,083 ",,"$40,976 ",,"$13,101 ",,"$13,007 ",
+2000,"$27,820 ",,"$13,999 ",,"$9,353 ",,"$4,467 ",,"$58,165 ",,"$9,787 ",,"$13,249 ",,"$35,129 ",,"$78,995 ",,"$48,219 ",,"$14,842 ",,"$15,934 ",
+2001,"$30,443 ",,"$15,014 ",,"$10,230 ",,"$5,199 ",,"$63,372 ",,"$10,497 ",,"$14,444 ",,"$38,432 ",,"$83,377 ",,"$50,718 ",,"$15,938 ",,"$16,721 ",
+2002,"$34,346 ",,"$17,626 ",,"$11,013 ",,"$5,707 ",,"$65,508 ",,"$11,081 ",,"$15,365 ",,"$39,062 ",,"$90,485 ",,"$55,086 ",,"$17,042 ",,"$18,358 ",
+2003,"$35,323 ",,"$20,422 ",,"$9,356 ",,"$5,545 ",,"$66,114 ",,"$11,144 ",,"$15,782 ",,"$39,187 ",,"$93,877 ",,"$57,503 ",,"$17,718 ",,"$18,656 ",
+Percent change,,,,,,,,,,,,,,,,,,,,,,,,
+1982-2003,692.4,%,708.2,%,573.1,%,925,%,469.9,%,293.4,%,474.3,%,550.9,%,347.7,%,305.8,%,368.2,%,519.6,%
+
+"Average annual percent change, 1982-2003",9.9,,10,,9.1,,11.2,,8.2,,6.4,,8.3,,8.9,,7.1,,6.6,,7.3,,8.6,
+Notes: Detail may not add to total because of rounding.,,,,,,,,,,,,,,,,,,,,,,,,
+"Sources for Federal Expenditure Data: 1982-96 Annual Finance Survey, U.S. Census Bureau. For 1997-99, detailed functional tables, Budget Authority by Function, Category and Program. For 2000-03, historical tables, ""Outlays by function and subfunction,"" Office of Management and Budget, Executive Office of the President.",,,,,,,,,,,,,,,,,,,,,,,,

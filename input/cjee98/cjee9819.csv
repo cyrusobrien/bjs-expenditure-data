@@ -1,0 +1,103 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  cjee9819.csv",,,,,,,,
+"table 19.  Supplemental data for 68 large county governments",,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1998, NCJ 190641",,,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,,
+"author:  Sidra Lea Gifford",,,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,
+"date of version:  10/12/2001",,,,,,,,
+,,,,,,,,
+"Table 19. Supplemental data for 68 large county governments",,,,,,,,
+,,,,,,,,
+,,,"                 Expenditures, fiscal 1998 (thousands of dollars)",,,,"           Full-time equivalent employment, ",
+,,,,,,,"                            March 1998",
+,,,"                           All functions",,,,,
+,,,,,,,,
+,,,"Total (direct","Direct",,,,"General"
+,"Population",,"and inter-","expenditure","Total general",,,"functions"
+"County","1998/a",,"governmental)","only","expenditure/b",,"All functions","only/c"
+,,,,,,,,
+"Alameda, CA",1328139,,1822603,1576033,1731821,,10540,10540
+"Allegheny, PA",1296037,,1090706,951364,1045839,,6972,6972
+"Baltimore, MD",717859,,1708655,1552490,1619896,,20622,20622
+"Bergen, NJ",846498,,610165,580495,610165,,3948,3948
+"Bexar, TX",1318322,,651700,604989,650970,,8671,8671
+"Broward, FL",1438228,,1362216,1326598,1249820,,10362,9239
+"Contra Costa, CA",881490,,1267071,1174910,1177322,,8443,8443
+,,,,,,,,
+"Cook, IL",5096540,,2219929,2060018,2076528,,25447,25447
+"Cuyahoga, OH",1401552,,1190224,1178050,1190224,,15379,15379
+"Dade, FL",2076175,,4534319,4530184,4104178,,34042,30405
+"Dallas, TX",2000192,,974456,965954,969729,,12382,12382
+"Dekalb, GA/d",589796,,582631,532783,455042,,6026,5684
+"Delaware, PA",547592,,292498,273508,277241,,3196,3196
+"Du Page, IL",859310,,325315,323462,323705,,3347,3333
+,,,,,,,,
+"Erie, NY",954021,,1283767,994329,1232123,,10565,10289
+"Essex, MA",686774,,60679,48352,48352,,884,884
+"Essex, NJ",755089,,684719,637344,684719,,5917,5917
+"Fairfax, VA",902492,,2721550,2540684,2443091,,31073,30689
+"Franklin, OH",1013724,,648963,626026,648114,,6338,6338
+"Fresno, CA",751272,,789251,733530,742503,,6993,6993
+"Fulton, GA",718336,,943187,508673,693511,,6300,6261
+,,,,,,,,
+"Hamilton, OH",857616,,784622,588638,784622,,5728,5728
+"Harris, TX",3126966,,1730011,1730011,1730011,,19216,19185
+"Hennepin, MN",1058746,,1204293,1200945,1204293,,10361,10344
+"Hillsborough, FL",897522,,1088324,1078382,957691,,12244,11967
+"Hudson, NJ",550789,,416687,375913,416687,,3314,3314
+"Jackson, MO",646341,,170726,162902,168991,,1813,1813
+"Jefferson, AL",661927,,444170,418408,431483,,3928,3928
+,,,,,,,,
+"Jefferson, KY",673040,,522801,509133,522801,,3185,3185
+"King, WA",1619411,,2011990,1974292,1618664,,13310,9968
+"Lake, IN",479940,,199506,197363,199506,,1838,1838
+"Los Angeles, CA",9127751,,12919444,11142715,11941663,,86719,86629
+"Macomb, WI",734625,,350425,326047,338332,,2724,2724
+"Maricopa, AZ",2611327,,1561062,1337190,1561062,,7881,7881
+"Middlesex, NJ",702458,,373030,352900,373030,,4755,4755
+,,,,,,,,
+"Milwaukee, WI",922243,,976722,898837,782284,,7773,6397
+"Monmouth, NJ",591182,,449554,418383,449472,,5116,5116
+"Monroe, NY",721996,,1158848,954524,1129059,,6015,5823
+"Montgomery, MD",816999,,2816855,2639430,2515619,,29211,27729
+"Montgomery, OH",566312,,434184,423311,409582,,4565,4565
+"Montgomery, PA",708782,,339019,313573,326102,,3125,3125
+"Multnomah, OR",624903,,497212,476239,497212,,3621,3621
+,,,,,,,,
+"Nassau, NY",1303389,,2494799,2192178,2397697,,16488,16488
+"Norfolk, MA",637388,,83023,57639,57639,,866,866
+"Oakland, MI",1162098,,606145,575707,573051,,4363,4363
+"Oklahoma, OK",630531,,114308,110712,111304,,1866,1866
+"Orange, CA",2636888,,2211712,1990317,2093003,,16934,16934
+"Palm Beach, FL",992840,,1210555,1176536,1133297,,8160,7800
+"Pima, AZ",767873,,718086,654743,717599,,7008,7008
+,,,,,,,,
+"Pinellas, FL",868887,,693314,662426,649660,,5407,5148
+"Prince Georges, MD",773810,,2059958,1859186,1821603,,26549,26517
+"Riverside, CA",1417425,,1587120,1452776,1584009,,13321,13316
+"Sacramento, CA",1117275,,1874496,1729175,1787579,,11905,11905
+"St. Louis, MO",1003807,,478231,298594,402400,,3880,3880
+"Salt Lake, UT",827818,,447065,447065,447065,,4121,4121
+"San Bernadino, CA",1598358,,1959064,1752814,1865040,,15468,15441
+,,,,,,,,
+"San Diego, CA",2655463,,2372925,2198757,2252647,,18087,18087
+"San Mateo, CA",686909,,713239,659537,664612,,5692,5692
+"Santa Clara, CA",1599604,,1980744,1856090,1980744,,13527,13527
+"Shelby, TN",867409,,1092751,943494,1068221,,12648,12646
+"Suffolk, NY",1356896,,1888468,1662705,1723045,,12790,12213
+"Summit, OH",530571,,352441,341064,345929,,3542,3510
+,,,,,,,,
+"Tarrant, TX",1305185,,571846,571094,571846,,6334,6334
+"Union, NJ",497281,,397109,369439,397109,,4011,4011
+"Ventura, CA",714733,,865813,802864,802221,,7949,7908
+"Wayne, MI",2137302,,1825023,1615886,1733235,,6591,6591
+"Westchester, NY",893412,,1762936,1551913,1694102,,9799,9732
+"Worcester, MA",719545,,53887,28603,29529,,571,571
+,,,,,,,,
+"Note: Jurisdictions without data did not report for 1998.",,,,,,,,
+"a/ Population data are from the Bureau of the Census, July 1, 1998 county population estimates. ",,,,,,,,
+"b/ ""Total general expenditure"" excludes utilities, county-operated liquor stores, and insurance trust benefits.",,,,,,,,
+"c/ ""General functions only"" FTE excludes utilities and county-operated liquor stores.",,,,,,,,
+"d/ In 1997 Middlesex County in Massachusetts was abolished.  Thus it is no longer being included in this table.  ",,,,,,,,
+"The county taking its place among the 68 large counties in this table is DeKalb, Georgia.",,,,,,,,

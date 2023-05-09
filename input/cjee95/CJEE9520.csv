@@ -1,0 +1,82 @@
+"Bureau of Justice Statistics",,,,,,,,,
+"filename:  cjee9520.csv",,,,,,,,,
+"table #:  20 Supplemental data for 49 large city governments, 1995",,,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1995, NCJ 175707",,,,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,,,
+"authors:  Lea S. Gifford and Sue Lindgren",,,,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,,
+"date of version:  6/29/99",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+"Table 20.   Supplemental data for 49 large city governments, 1995",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,"                                     Expenditures, fiscal year 1995",,,,,"    Full-time equivalent employment,",
+,,,"                                            (thousands of dollars)",,,,,"                          October 1995",
+,,,,,,,,,
+,,,"                            All functions",,,,,,
+,"Population,",,"Total (direct and","Direct expenditure",,"Total general",,,"General functions"
+"City","1990/a",,"intergovernmental)","only",,"expenditure/b",,"All functions","only/c"
+,,,,,,,,,
+"Albuquerque, NM",384736,,$672178,$672178,,$584602,,6192,5532
+"Atlanta, GA",394017,,934092,917265,,746196,,7862,6840
+"Austin, TX",465622,,1384260,1373704,,758279,,11539,9734
+"Baltimore, MD",736014,,1891541,1885126,,1711280,,,
+"Baton Rouge, LA",380105,,464742,464193,,432276,,5993,5892
+"Boston, MA",574283,,2021984,1802140,,1762377,,21543,21277
+,,,,,,,,,
+"Buffalo, NY",328123,,820935,811304,,803225,,11582,11413
+"Charlotte, NC",395934,,531202,524862,,396139,,4619,4290
+"Chicago, IL",2783726,,4641171,4565993,,3832679,,41470,39336
+"Cincinnati, OH",364040,,695308,650207,,576276,,,
+"Cleveland, OH",505616,,990027,987480,,675039,,8758,7086
+"Columbus, OH",632910,,773536,761693,,636612,,7954,7262
+,,,,,,,,,
+"Dallas, TX",1006877,,1455667,1425348,,1204084,,14326,12813
+"Denver, CO",467610,,1963971,1907653,,1814894,,,
+"Detroit, MI",1027974,,2017416,1939328,,1473915,,,
+"El Paso, TX",515342,,448686,446487,,322142,,5916,5061
+"Fort Worth, TX",447619,,472057,470805,,350630,,,
+"Honolulu, HI",836231,,1278379,1278379,,1022780,,9187,8490
+,,,,,,,,,
+"Houston, TX",1630553,,2147713,2134564,,1694478,,22966,21674
+"Indianapolis, IN",731327,,1203891,1158734,,1136002,,11842,11464
+"Jacksonville, FL",635230,,1703847,1667472,,976594,,9281,7469
+"Kansas City, MO",435146,,727545,702985,,631629,,6540,5953
+"Long Beach, CA",429433,,897647,897647,,735242,,5408,4458
+"Los Angeles, CA",3485398,,7494357,7448069,,4435954,,46868,38003
+,,,,,,,,,
+"Memphis, TN",610337,,1962571,1943753,,1022862,,,
+"Miami, FL",358548,,412983,411183,,366995,,3435,3435
+"Milwaukee, WI",191262,,821991,786542,,696449,,,
+"Minneapolis, MN",368383,,800732,770133,,660794,,,
+"Nashville, TN",488374,,1796524,1796524,,1067828,,19459,18184
+"Newark, NJ",275221,,499020,459511,,461069,,5329,5087
+,,,,,,,,,
+"New Orleans, LA",496938,,769636,769636,,658372,,8639,7851
+"New York, NY",7322564,,47880832,45261796,,38644181,,388099,343337
+"Oakland, CA",372242,,780420,777917,,728575,,,
+"Oklahoma City, OK",444719,,514366,514366,,442936,,4914,4460
+"Omaha, NE",335795,,261550,257054,,244690,,2867,2867
+"Philadelphia, PA",1585577,,4017723,3926123,,3032039,,28926,27798
+,,,,,,,,,
+"Phoenix, AZ",983403,,1400993,1395600,,1191405,,11713,10810
+"Pittsburgh, PA",369879,,512760,501310,,431044,,,
+"Portland, OR",437319,,654112,652288,,565495,,5072,4597
+"St.Louis, MO",396685,,640321,614657,,538221,,7686,7275
+"San Antonio, TX",935933,,1527602,1525025,,678071,,14776,10184
+"San Diego, CA",1110549,,1524456,1521384,,1230901,,10104,7796
+,,,,,,,,,
+"San Francisco, CA",723959,,3743623,3629097,,2799296,,26492,22092
+"San Jose, CA",782248,,822128,802653,,746289,,6026,5998
+"Seattle, WA",516259,,1469638,1373563,,912318,,10505,8071
+"Toledo, OH",332943,,290968,281222,,268290,,3065,2687
+"Tucson, AZ","-",,530404,530404,,387161,,5251,4690
+"Tulsa, OK",367302,,504408,504408,,434296,,4175,3669
+"Washington, DC",554000,,5077156,4896842,,4483791,,38518,37892
+,,,,,,,,,
+,,,,,,,,,
+"Notes:  Jurisdictions without data did not report for 1995, but data are available for prior years.",,,,,,,,,
+"a/ Population data are from the Bureau of the Census, 1990 Decennial Census of Population and Housing.",,,,,,,,,
+"b/ ""Total general expenditure"" excludes utilities, city-operated liquor stores, and insurance benefits.",,,,,,,,,
+"c/ ""General functions only"" FTE excludes utilities and city-operated liquor stores.",,,,,,,,,

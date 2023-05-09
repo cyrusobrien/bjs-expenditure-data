@@ -1,0 +1,41 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  cjee9501.csv",,,,,,,,
+"table #:  1 Percent distribution of expenditure for the justice system by type of government, fiscal 1995",,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1995, NCJ 175707",,,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,,
+"authors:  Lea S. Gifford and Sue Lindgren",,,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,
+"date of version:  9/20/99",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Table 1.  Percent distribution of expenditure for the justice system by type of government, fiscal 1995",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,"                                 Amount (thousands of dollars) ",,,,,"                             Percent distribution",,
+,,,,,,,,
+,,"Federal","State","Local",,"Federal","State","Local"
+"Activity","All governments","Government","governments","governments",,"Government","governments","governments"
+,,,,,,,,
+"Total justice system/a",$112868448,$22651000,$41196021,$58932933,,"-","-","-"
+"   Direct expenditure",112868448,16741000,37359746,58767702,,14.8,33.1,52.1
+"   Intergovernmental expenditure","-",5910000,3836275,165231,,"-","-","-"
+,,,,,,,,
+"Police protection/a",48644529,9298000,6451364,35364493,,"-","-","-"
+"   Direct expenditure",48644529,7548000,5734937,35361592,,15.5,11.8,72.7
+"   Intergovernmental expenditure","-",1750000,716427,2901,,"-","-","-"
+,,,,,,,,
+"Judicial and legal/a",24471689,9184000,8675619,11673851,,"-","-","-"
+"   Direct expenditure",24471689,5309000,7533740,11628949,,21.7,30.8,47.5
+"   Intergovernmental expenditure","-",3875000,1141879,44902,,"-","-","-"
+,,,,,,,,
+"Correction/a",39752230,4169000,26069038,11894589,,"-","-","-"
+"   Direct expenditure",39752230,3884000,24091069,11777161,,9.8,60.6,29.6
+"   Intergovernmental expenditure","-",285000,1977969,117428,,"-","-","-"
+,,,,,,,,
+,,,,,,,,
+"Notes:  Local government data are estimates subject to sampling variability.",,,,,,,,
+"Federal Government data are for the fiscal period beginning October 1, 1994 and ending September 30, 1995.",,,,,,,,
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative",,,,,,,,
+"intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental ",,,,,,,,
+"expenditure of a government were tabulated and then counted again when the recipient government(s) expended",,,,,,,,
+"the amount.  The intergovernmental expenditure lines are not totaled for the same reason. ",,,,,,,,

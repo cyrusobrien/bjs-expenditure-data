@@ -1,0 +1,38 @@
+"Bureau of Justice Statistics",,,,,,,,
+"filename:  cjee9801.csv",,,,,,,,
+"table 1.  Percent distribution of expenditure for the justice system by level of government, fiscal 1998",,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1998, NCJ 190641",,,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,,
+"author:  Sidra Lea Gifford",,,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,
+"date of version:  10/26/2001",,,,,,,,
+,,,,,,,,
+"Table 1.   Percent distribution of expenditure for the justice system by level of government, fiscal 1998",,,,,,,,
+,,,,,,,,
+,"                                      Amount (thousands of dollars)",,,,,"                            Percent distribution",,
+,,,,,,,,
+,"All","Federal","State","Local",,"Federal","State","Local"
+"Activity","governments/a","government","governments","governments",,"government","governments","governments"
+,,,,,,,,
+"Total justice system",135899453,22833998,49453806,70831438,,"-","-","-"
+"Direct expenditure",135899453,19365000,45995144,70539309,,14.2,33.8,51.9
+"Intergovernmental expenditure","-",3468998,3458662,292129,,"-","-","-"
+,,,,,,,,
+"Police protection",60828213,12207611,7996298,43311939,,"-","-","-"
+"Direct expenditure",60828213,10353000,7165258,43309955,,17.0,11.8,71.2
+"Intergovernmental expenditure","-",1854611,831040,1984,,"-","-","-"
+,,,,,,,,
+"Judicial and legal",29901380,7461582,10858191,13559129,,"-","-","-"
+"Direct expenditure",29901380,6328000,10150957,13422423,,21.2,33.9,44.9
+"Intergovernmental expenditure","-",1133582,707234,136706,,"-","-","-"
+,,,,,,,,
+"Corrections",45169860,3164805,30599317,13960370,,"-","-","-"
+"Direct expenditure",45169860,2684000,28678929,13806931,,5.9,63.5,30.6
+"Intergovernmental expenditure","-",480805,1920388,153439,,"-","-","-"
+,,,,,,,,
+"Notes:  Local government data are estimates subject to sampling variability.",,,,,,,,
+"Federal Government data are for the fiscal period beginning October 1, 1997 and ending September 30, 1998.",,,,,,,,
+"a/ The total lines for each criminal justice activity, and for the total justice system, exclude duplicative",,,,,,,,
+"intergovernmental amounts.  This was done to avoid the artificial inflation that would result if an intergovernmental ",,,,,,,,
+"expenditure of a government were tabulated and then counted again when the recipient government(s) expended",,,,,,,,
+"the amount.  The intergovernmental expenditure lines are not totaled for the same reason. ",,,,,,,,

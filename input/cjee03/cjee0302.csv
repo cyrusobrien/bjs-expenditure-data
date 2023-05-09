@@ -1,0 +1,41 @@
+Bureau of Justice Statistics,,,,,,,,,
+filename:  cjee0302.csv,,,,,,,,,
+"table #:  2 Percent distribution of employment and payrolls for the justice system by level of government, March 2003",,,,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 2003, NCJ 212350",,,,,,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,,,
+authors:  Kristen A. Hughes and Steven W. Perry,,,,,,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,
+date of version:  1/12/2005,,,,,,,,,
+
+"Table 2.   Percent distribution of employment and payrolls for the justice system by level of government, March 2003 ",,,,,,,,,
+(Payroll amounts in thousands of dollars),,,,,,,,,
+
+,,,,,Percent distribution,,,,
+Activity,,,,,,,,,
+,All governments,Federal Government,State governments,Local governments,Federal Government,,State governments,,Local governments
+
+Total justice system:,,,,,,,,,,
+Total employees,"2,361,193","253,367","733,570","1,374,256",10.7,%,31.1,%,58.2,%
+Full time employees,-,-,"709,835","1,219,824",-,,36.8,,63.2,
+Full-time eqivalent employment,-,-,"722,875","1,279,831",-,,36.1,,63.9,
+March payrolls,"$9,040,542 ","$1,278,947 ","$2,639,081 ","$5,122,513 ",14.1,,29.2,,56.7,
+
+Police protection:,,,,,,,,,,
+Total employees,"1,118,936","156,607","105,933","856,396",14,,9.5,,76.5,
+Full time employees,-,-,"103,152","750,879",-,,12.1,,87.9,
+Full-time equivalent employment,-,-,"104,127","790,829",-,,11.6,,88.4,
+March payrolls,"$4,545,108 ","$760,470 ","$438,074 ","$3,346,565 ",16.7,,9.6,,73.6,
+
+Judicial and legal:,,,,,,,,,,
+Total employees,"494,007","61,984","164,051","267,972",12.5,,33.2,,54.2,
+Full time employees,-,-,"154,537","235,710",-,,39.6,,60.4,
+Full-time equivalent employment,-,-,"159,849","247,877",-,,39.2,,60.8,
+March payrolls,"$1,968,958 ","$353,078 ","$681,953 ","$933,926 ",17.9,,34.6,,47.4
+
+Corrections:,,,,,,,,,
+Total employees,"748,250","34,776","463,586","249,888",4.6,,62,,33.4
+Full time employees,-,-,"452,146","233,235",-,,66,,34
+Full-time equivalent employment,-,-,"458,899","241,125",-,,65.6,,34.4
+March payrolls,"$2,526,476 ","$165,399 ","$1,519,054 ","$842,023 ",6.5,,60.1,,33.3
+
+Notes:  Local government data are estimates subject to sampling variability.  The Federal Budget source provides only total employment for the Federal Government; that figure is included in the denominator used to compute the percent distribution of full time employees and full time equivalent employment for State and local governments.,,,,,,,,,

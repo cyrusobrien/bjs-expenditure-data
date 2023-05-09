@@ -1,0 +1,70 @@
+Bureau of Justice Statistics,,,,
+filename:  jeeus0306.csv,,,,
+"table #:  6  State and local justice system employment and percent of all public employment, by State, March 2003",,,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,
+author:  Kristen A. Hughes ,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,
+date of version:  5/10/2006,,,,
+
+"Table 6.  State and local justice system employment and percent of all public employment, by State, March 2003",,,,
+
+, Full-time equivalent employment,,,
+State,All State and local public,State and local justice,Justice as a percent of total,
+
+State,All State and local public,State and local justice,Justice as a percent of total,
+Nevada,"92,655","15,687",16.9,%
+Florida,"806,682","133,772",16.6,
+Arizona,"261,492","40,583",15.5,
+District of Columbia,"44,271","6,870",15.5,
+Delaware,"45,947","6,926",15.1,
+New Jersey,"489,448","73,934",15.1,
+New York,"1,193,262","176,622",14.8,
+Maryland,"287,513","39,577",13.8,
+Pennsylvania,"569,356","78,232",13.7,
+Louisiana,"279,087","37,861",13.6,
+Illinois,"641,248","86,279",13.5,
+Missouri,"311,972","41,803",13.4,
+Georgia,"484,515","64,637",13.3,
+California,"1,805,446","238,806",13.2,
+Massachusetts,"320,372","42,151",13.2,
+Connecticut,"176,369","22,626",12.8,
+"States-local, total","15,760,451","2,002,706",12.7,%
+Ohio,"619,869","78,124",12.6,%
+Hawaii,"71,764","8,879",12.4,
+Texas,"1,253,022","155,979",12.4,
+Michigan,"512,026","62,597",12.2,
+Wisconsin,"288,044","35,225",12.2,
+Tennessee,"311,601","37,024",11.9,
+New Mexico,"122,040","14,348",11.8,
+South Carolina,"242,222","28,496",11.8,
+Virginia,"411,100","47,922",11.7,
+Oregon,"181,607","21,049",11.6,
+Rhode Island,"55,944","6,469",11.6,
+Colorado,"256,018","29,205",11.4,
+Indiana,"332,380","38,048",11.4,
+North Carolina,"469,942","53,684",11.4,
+Arkansas,"153,382","17,345",11.3,
+Washington,"321,153","35,619",11.1,
+Utah,"122,209","13,146",10.8
+Oklahoma,"201,632","21,597",10.7
+Idaho,"78,548","8,194",10.4
+Alaska,"51,102","5,191",10.2
+Kansas,"178,042","18,221",10.2
+Wyoming,"43,651","4,467",10.2
+Montana,"52,886","5,337",10.1
+New Hampshire,"68,192","6,893",10.1
+Kentucky,"227,902","22,879",10
+West Virginia,"93,383","9,341",10
+Alabama,"269,674","26,036",9.7
+Mississippi,"186,130","17,592",9.5
+Minnesota,"283,691","26,155",9.2
+Nebraska,"113,703","10,372",9.1
+South Dakota,"43,445","3,865",8.9
+Iowa,"179,633","14,868",8.3
+Maine,"75,041","6,205",8.3
+North Dakota,"41,178","3,110",7.6
+Vermont,"38,660","2,858",7.4
+
+Note: These data are based on a summation of responses from individual State and local government agencies. Local government data are estimates subject of sampling variability. See Methodology for details.,,,
+"Source: Annual Survey of Government Employment, U.S. Census Bureau, March (2003).",,,

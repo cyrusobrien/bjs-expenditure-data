@@ -1,0 +1,47 @@
+"Bureau of Justice Statistics",,,,,,,
+"filename:  cjee9702.csv",,,,,,,
+"table 2:  Percent distribution of employment and payrolls for the justice system by level of government, March 1997",,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1997, NCJ 185672",,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,
+"author:  Sidra Lea Gifford",,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,
+"date of version:  11/29/2000",,,,,,,
+,,,,,,,
+"Table 2.   Percent distribution of employment and payrolls for the justice system by level of government, March 1997",,,,,,,
+,,,,,,,
+"(Payroll amounts in thousands of dollars)",,,,,,,
+,,,,,,,
+,,,,,"                          Percent distribution",,
+,,,,,,,
+,"All","Federal","State","Local","Federal","State","Local"
+"Activity","governments","Government","governments","governments","Government","governments","governments"
+,,,,,,,
+"Total justice system:",,,,,,,
+"Total employees",2078192,176739,690807,1210646,8.5,33.2,58.3
+"Full-time employees","-","-",648933,1079276,"-",37.5,62.5
+"Full-time equivalent employment","-","-",662881,1127903,"-",37.0,63.0
+"March payrolls",6251789,760640,1956789,3534360,12.2,31.3,56.5
+,,,,,,,
+"Police protection:",,,,,,,
+"Total employees",950877,94294,93945,762638,9.9,9.9,80.2
+"Full-time employees","-","-",91112,676021,"-",11.9,88.1
+"Full-time equivalent employment","-","-",92246,706559,"-",11.5,88.5
+"March payrolls",3065575,419339,306667,2339569,13.7,10.0,76.3
+,,,,,,,
+"Judicial and legal:",,,,,,,
+"Total employees",419072,52636,138674,227762,12.6,33.1,54.3
+"Full-time employees","-","-",129887,197761,"-",39.6,60.4
+"Full-time equivalent employment","-","-",134980,208551,"-",39.3,60.7
+"March payrolls",1305992,234755,466917,604320,18.0,35.8,46.3
+,,,,,,,
+"Corrections:",,,,,,,
+"Total employees",708243,29809,458188,220246,4.2,64.7,31.1
+"Full-time employees","-","-",427934,205494,"-",67.6,32.4
+"Full-time equivalent employment","-","-",435655,212793,"-",67.2,32.8
+"March payrolls",1880222,106546,1183205,590471,5.7,62.9,31.4
+,,,,,,,
+,,,,,,,
+"Notes:  Local government data are estimates subject to sampling variability.",,,,,,,
+"The Federal Budget source provides only total employment for the Federal Government;",,,,,,,
+"that figure is included in the denominator used to compute the percent distribution of full time",,,,,,,
+"employees and full time equivalent employment for State and local governments.",,,,,,,

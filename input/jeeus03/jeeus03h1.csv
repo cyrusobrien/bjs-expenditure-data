@@ -1,0 +1,14 @@
+Bureau of Justice Statistics,,,
+filename:  jeeus03h1.csv,,,
+"highlight #:  1  In fiscal year 2003, States spend the most for corrections - 39.2 billion. Local governments spent the most for police functions – 57.5 billion. (Expenditure in millions)",,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,
+author:  Kristen A. Hughes ,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,
+date of version:  4/26/2006,,,
+
+"Highlight 1. In fiscal year 2003, States spend the most for corrections - $39.2 billion. Local governments spent the most for police functions – $57.5 billion. (Expenditure in millions)",,,
+Function,Local government,State government,Federal government
+Police protection,$58 ,$11 ,$20 
+Judicial and legal,$18 ,$16 ,$9 
+Corrections,$19 ,$39 ,$6 

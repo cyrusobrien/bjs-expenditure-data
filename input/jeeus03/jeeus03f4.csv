@@ -1,0 +1,16 @@
+Bureau of Justice Statistics,,,
+filename:  jeeus03f4.csv,,,
+figure #:  4 Employees across justice-related function by level of government,,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,
+author:  Kristen A. Hughes ,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,
+date of version:  4/26/2006,,,
+
+Figure 4. Employees across justice-related function by level of government,,,
+"Local governments employed over 850,000 persons for police protection in March 2003 and over half of all judicial and legal employees (March 2003) ",,,
+(Employees in millions),,,
+,Federal government,State government,Local government
+Police protection,"156,607","105,933","856,396"
+Judicial and legal,"61,984","164,051","267,972"
+Corrections,"34,776","463,586","249,888"

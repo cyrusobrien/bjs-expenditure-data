@@ -1,0 +1,102 @@
+"Bureau of Justice Statistics",,,,,,
+"filename:  cjee9719.csv",,,,,,
+"table 19:  Supplemental data for 68 large county governments",,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1997, NCJ 185672",,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,
+"author:  Sidra Lea Gifford",,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,
+"date of version:  11/29/2000",,,,,,
+,,,,,,
+"Table 19. Supplemental data for 68 large county governments",,,,,,
+,,,,,,
+,,"               Expenditures, fiscal 1997 (thousands of dollars)",,,"       Full-time equivalent employment, ",
+,,,,,"                    March 1997",
+,,"                              All functions",,,,
+,,,,,,
+,,"Total (direct","Direct",,,"General"
+,"Population","and inter-","expenditure","Total general",,"functions"
+"County","1997/a","governmental)","only","expenditure/b","All functions","only/c"
+,,,,,,
+"Alameda, CA",1328139,1782824,1681277,1672336,10226,10226
+"Allegheny, PA",1296037,1056312,960630,1012937,7230,7230
+"Baltimore, MD",717859,1589318,1543478,1504300,21586,21586
+"Bergen, NJ",846498,561178,536335,561178,,
+"Bexar, TX",1318322,650121,604448,649391,7949,7949
+"Broward, FL",1438228,1202555,1158734,1091554,10064,10064
+"Contra Costa, CA",881490,1182509,1174192,1102062,,
+,,,,,,
+"Cook, IL",5096540,2065411,2049303,1922010,28074,28074
+"Cuyahoga, OH",1401552,1179471,1170783,1179471,14669,14669
+"Dade, FL",2076175,4442286,4438151,4007340,35611,35611
+"Dallas, TX",2000192,942245,938468,936890,12207,12207
+"Delaware, PA",547592,290818,281289,280557,3086,3086
+"Du Page, IL",859310,335338,334684,333078,2971,2971
+"Erie, NY",954021,1254723,986378,1219860,12321,12321
+,,,,,,
+"Essex, MA",686774,59908,59908,47581,745,745
+"Essex, NJ",755089,697979,653797,697979,7125,7125
+"Fairfax, VA",902492,2720313,2678565,2469947,31142,31142
+"Franklin, OH",1013724,661628,637656,660672,6290,6290
+"Fresno, CA",751272,935075,927159,887392,6645,6645
+"Fulton, GA",718336,923002,470339,850119,6214,6214
+"Hamilton, OH",857616,748089,658064,748089,5615,5615
+,,,,,,
+"Harris, TX",3126966,1628823,1628823,1628823,18876,18876
+"Hennepin, MN",1058746,1136123,1132686,1136123,10263,10263
+"Hillsborough, FL",897522,1328917,1319142,1235892,12688,12688
+"Hudson, NJ",550789,,,,3533,3533
+"Jackson, MO",646341,157775,151740,156040,,
+"Jefferson, AL",661927,380505,365910,370018,4781,4781
+"Jefferson, KY",673040,472355,459669,472355,3243,3243
+,,,,,,
+"King, WA",1619411,1693574,1661875,1353477,12492,12492
+"Lake, IN",479940,221623,219892,221623,1831,1831
+"Los Angeles, CA",9127751,12630119,11929913,11704003,84713,84713
+"Macomb, WI",734625,323259,312175,311137,2737,2737
+"Maricopa, AZ",2611327,1583276,1358120,1583276,12293,12293
+"Middlesex, MA",1412561,106981,106981,60048,890,890
+"Middlesex, NJ",702458,383495,363398,383495,,
+,,,,,,
+"Milwaukee, WI",922243,947511,947511,741823,7438,7438
+"Monmouth, NJ",591182,469562,436985,469480,6006,6006
+"Monroe, NY",721996,1198255,1005888,1175788,6895,6895
+"Montgomery, MD",816999,2760912,2652975,2529796,31561,31561
+"Montgomery, OH",566312,441055,429676,413375,4608,4608
+"Montgomery, PA",708782,319169,311324,310419,,
+"Multnomah, OR",624903,455142,435108,455142,3771,3771
+,,,,,,
+"Nassau, NY",1303389,2811651,2516977,2794653,19707,19707
+"Norfolk, MA",637388,,,,861,861
+"Oakland, MI",1162098,691361,680624,657015,4843,4843
+"Oklahoma, OK",630531,109462,108746,106609,1921,1921
+"Orange, CA",2636888,2182177,2115965,2072187,16042,16042
+"Palm Beach, FL",992840,1102265,1072163,1025210,7946,7946
+"Pima, AZ",767873,775217,712302,775217,6532,6532
+,,,,,,
+"Pinellas, FL",868887,625304,594516,588028,5367,5367
+"Prince Georges, MD",773810,2003932,1874328,1878303,24846,24846
+"Riverside, CA",1417425,1569729,1451465,1567657,12936,12936
+"Sacramento, CA",1117275,1779510,1749021,1694541,11984,11984
+"St. Louis, MO",1003807,506117,338421,497686,3843,3843
+"Salt Lake, UT",827818,373712,373712,373712,3965,3965
+"San Bernadino, CA",1598358,1961647,1866843,1875552,14853,14853
+,,,,,,
+"San Diego, CA",2655463,2507965,2449918,2400899,18029,18029
+"San Mateo, CA",686909,676488,671940,631166,,
+"Santa Clara, CA",1599604,1895689,1786954,1895689,13579,13579
+"Shelby, TN",867409,996237,864232,973876,,
+"Suffolk, NY",1356896,1840561,1617384,1709713,13931,13931
+"Summit, OH",530571,336872,328286,330593,3428,3428
+,,,,,,
+"Tarrant, TX",1305185,549531,548767,549531,6677,6677
+"Union, NJ",497281,,,,,
+"Ventura, CA",714733,816585,808300,758135,7877,7877
+"Wayne, MI",2137302,1491036,1362048,1410928,6477,6477
+"Westchester, NY",893412,1727716,1519777,1694629,11106,11106
+"Worcester, MA",719545,60356,59430,36411,693,693
+,,,,,,
+,,,,,,
+"Note: Jurisdictions without data did not report for 1997.",,,,,,
+"a/ Population data are from the Bureau of the Census, July 1, 1997 county population estimates. ",,,,,,
+"b/ ""Total general expenditure"" excludes utilities, county-operated liquor stores, and insurance trust benefits.",,,,,,
+"c/ ""General functions only"" full-time equivalent employment excludes utilities and county-operated liquor stores.",,,,,,

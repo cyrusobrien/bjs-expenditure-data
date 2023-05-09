@@ -1,0 +1,83 @@
+"Bureau of Justice Statistics",,,,,,
+"filename:  cjee9620.csv",,,,,,
+"table #:  20 Supplemental data for 49 large city governments, 1996",,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1996, NCJ 180883",,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,
+"authors:  Lea S. Gifford and Sue Lindgren",,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,
+"date of version:  12/29/99",,,,,,
+,,,,,,
+"Table 20.  Supplemental data for 49 large city governments, 1996",,,,,,
+,,,,,,
+,,"      Expenditure, fiscal 1996 (thousands of dollars)",,,"    Full-time equivalent employment,",
+,,,,,"                   October 1995",
+,,"                      All functions",,,,
+,,,,,,
+,,"Total (direct","Direct",,,"General"
+,"Population","and inter-","expenditure","Total general",,"functions"
+"City","1996/a","governmental)","only","expenditure/b","All functions","only/c"
+,,,,,,
+"Albuquerque, NM",419681,737297,737297,657789,6192,5532
+"Atlanta, GA",401907,1113908,1093632,866145,7862,6840
+"Austin, TX",541278,1433575,1423019,691317,11539,9734
+"Baltimore, MD",675401,1998935,1990918,1802098,,
+"Baton Rouge, LA",372502,539079,538581,501756,5993,5892
+"Boston, MA",558394,2128716,1911580,1889845,21543,21277
+,,,,,,
+"Buffalo, NY",310548,878370,866927,860641,11582,11413
+"Charlotte, NC",441297,587260,578658,423401,4619,4290
+"Chicago, IL",2721547,4768216,4692909,3890042,41470,39336
+"Cincinnati, OH",345818,703224,652554,580177,,
+"Cleveland, OH",498246,946696,943677,644041,8758,7086
+"Columbus, OH",657053,851361,840049,719751,7954,7262
+,,,,,,
+"Dallas, TX",1053292,1446990,1415839,1196520,14326,12813
+"Denver, CO",497840,1867467,1804142,1715576,,
+"Detroit, MI",1000272,2329336,2239388,1653295,,
+"El Paso, TX",599865,460806,458357,344386,5916,5061
+"Fort Worth, TX",479716,,,,,
+"Honolulu, HI",871766,1253408,1253408,1021552,9187,8490
+,,,,,,
+"Houston, TX",1744058,2260693,2237783,1777444,22966,21674
+"Indianapolis, IN",746737,1416849,1405630,1346040,11842,11464
+"Jacksonville, FL",679792,1859151,1830518,1075439,9281,7469
+"Kansas City, MO",441259,831452,806300,720186,6540,5953
+"Long Beach, CA",421904,1086041,1086041,909761,5408,4458
+"Los Angeles, CA",3553638,7571894,7511112,4654816,46868,38003
+,,,,,,
+"Memphis, TN",596725,2097403,2078858,1109799,,
+"Miami, FL",365127,411205,409405,362935,3435,3435
+"Milwaukee, WI",590503,834117,798276,705342,,
+"Minneapolis, MN",358785,841689,811149,703426,,
+"Nashville, TN",511263,1977445,1977445,1144407,19459,18184
+"Newark, NJ",268510,463485,423186,415341,5329,5087
+,,,,,,
+"New Orleans, LA",476625,763182,763182,651914,8639,7851
+"New York, NY",7380906,48018499,45184031,38752504,388099,343337
+"Oakland, CA",367230,783370,783105,731224,,
+"Oklahoma City, OK",469852,510992,510992,438244,4914,4460
+"Omaha, NE",364253,265235,261036,247168,2867,2867
+"Philadelphia, PA",1478002,4310315,4220575,3243960,28926,27798
+,,,,,,
+"Phoenix, AZ",1159014,1478959,1472064,1221325,11713,10810
+"Pittsburgh, PA",350363,487699,478646,418326,,
+"Portland, OR",480824,718877,715340,623703,5072,4597
+"St.Louis, MO",351565,651731,621990,546740,7686,7275
+"San Antonio, TX",1067816,1647526,1645213,796007,14776,10184
+"San Diego, CA",1171121,1790669,1786530,1459720,10104,7796
+,,,,,,
+"San Francisco, CA",735315,3812874,3709699,2959391,26492,22092
+"San Jose, CA",838744,873447,855452,789716,6026,5998
+"Seattle, WA",524704,1510925,1401616,975004,10505,8071
+"Toledo, OH",317606,290955,281455,265591,3065,2687
+"Tucson, AZ",459988,557200,557200,411784,5251,4690
+"Tulsa, OK",378491,510449,510449,435227,4175,3669
+"Washington, DC",543213,4954990,4770507,4368005,38518,37892
+,,,,,,
+"Note: The October 1995 employment and payrolls data were used for both ",,,,,,
+"1995 and 1996 Justice Expenditure and Employment Extracts.",,,,,,
+"Jurisdictions without employment data did not report for 1995; jurisdictions without expenditure",,,,,,
+"data did not report for 1996.",,,,,,
+"a/ Population data are from the Bureau of the Census, July 1, 1996 Population Estimates for Places and Minor Civil Divisions.",,,,,,
+"b/ ""Total general expenditure"" excludes utilities, city-operated liquor stores, and insurance benefits.",,,,,,
+"c/ ""General functions only"" FTE excludes utilities and city-operated liquor stores.",,,,,,

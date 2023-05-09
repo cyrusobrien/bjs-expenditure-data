@@ -1,0 +1,28 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,,,
+filename:  jeeus0301.csv,,,,,,,,,,,,,,,,,,,,
+"table #:  1 Total, direct, and intergovernmental justice expenditure and percent change, by level of government, fiscal years 1982-2003.",,,,,,,,,,,,,,,,,,,,
+"series title:  Justice Expenditure and Employment in the United States 2003, NCJ 212350",,,,,,,,,,,,,,,,,,,,
+data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE),,,,,,,,,,,,,,,,,,,,
+author:  Kristen A. Hughes ,,,,,,,,,,,,,,,,,,,,
+refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,,,,,,,,,,,
+date of version:  4/26/2006,,,,,,,,,,,,,,,,,,,,
+
+"Table 1. Total, direct, and intergovernmental justice expenditure and percent change, by level of government, fiscal years 1982-2003.",,,,,,,,,,,,,,,,,,,,
+
+,,"Total* (Federal, State, and local direct)",,     Federal,,,,,,         State,,,,,,             Local,,,,
+Year,,,,Total,,Direct,,Intergovernmental,,Total,,Direct,,Intergovernmental,,Total,,Direct,,Intergovernmental
+,Expenditure (in millions),,,,,,,,,,,,,,,,,,,
+
+1982,,"$35,842 ",,"$4,458 ",,"$4,269 ",,$189 ,,"$11,602 ",,"$10,651 ",,$951 ,,"$20,968 ",,"$20,922 ",,$46 
+1987,,"$58,871 ",,"$7,496 ",,"$7,231 ",,$265 ,,"$20,157 ",,"$18,465 ",,"$1,692 ",,"$33,265 ",,"$33,175 ",,$90 ,
+1992,,"$93,777 ",,"$17,423 ",,"$13,529 ",,"$3,894 ",,"$33,755 ",,"$30,271 ",,"$3,484 ",,"$50,115 ",,"$49,977 ",,$138 ,
+1997,,"$129,793 ",,"$27,065 ",,"$20,524 ",,"$6,541 ",,"$46,444 ",,"$42,353 ",,"$4,091 ",,"$67,083 ",,"$66,916 ",,$167 ,
+2000,,"$155,722 ",,"$27,820 ",,"$23,086 ",,"$4,734 ",,"$58,165 ",,"$53,991 ",,"$4,175 ",,"$78,995 ",,"$78,644 ",,$351 ,
+2001,,"$167,113 ",,"$30,443 ",,"$25,285 ",,"$5,158 ",,"$63,372 ",,"$58,820 ",,"$4,552 ",,"$83,377 ",,"$83,007 ",,$370 ,
+2002,,"$179,580 ",,"$34,346 ",,"$28,548 ",,"$5,798 ",,"$65,508 ",,"$60,912 ",,"$4,596 ",,"$90,485 ",,"$90,120 ",,$366 ,
+2003,,"$185,490 ",,"$35,323 ",,"$30,197 ",,"$5,126 ",,"$66,114 ",,"$61,743 ",,"$4,371 ",,"$93,877 ",,"$93,550 ",,$327 ,
+
+Percent change 1982-2003,,417.5,%,692.4,%,607.4,%,"2,612.20",%,469.9,%,479.7,%,359.6,%,347.7,%,347.1,%,610.9,%
+Average annual percent change 1982-2003,,7.7,%,9.9,%,9.3,%,16.2,%,8.2,%,8.3,%,7.2,%,7.1,%,7,%,9.3,%
+Note: Detail may not add to total because of rounding. ,,,,,,,,,,,,,,,,,,,,,
+"*Duplicative transactions between levels of government (intergovernmental transfers) are excluded from the total for all governments, the State total, and the local total. These intergovernmental expenditures consist of payments from one government to another and are presented as a direct expenditure of a recipient government. See page 9 for further details. ",,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,30 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: jeee13fut02.csv,,,,,,,
+"Table 2. Percent distribution of employment and payrolls for the justice system, by level of government, March 2013",,,,,,,
+"Series title: Justice Expenditure and Employment Extracts, 2013 - Final (Update) NCJ 250327",,,,,,,
+Data source: Justice Expenditure and Employment Extracts Program (JEEE),,,,,,,
+"Author: Emily D. Buehler, Ph.D., BJS Statistician",,,,,,,
+Refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765,,,,,,,
+Date of version: 7/7/2021,,,,,,,
+,,,,,,,
+"Table 2. Percent distribution of employment and payrolls for the justice system, by level of government, March 2013",,,,,,,
+(Payroll amounts in thousands of dollars),,,,,,,
+,,,,,,,
+Function - Measure ,All governments,Federal government,State governments,Local governments,Percent federal government,Percent state governments,Percent local governments
+Total justice system - Total employees,"2,402,791","292,990","732,213","1,377,588",12.2,30.5,57.3
+Total justice system - Full-time employees,-,-,"703,095","1,236,379",-,36.3,63.7
+Total justice system - Full-time equivalent employment,-,-,"716,141","1,294,155",-,35.6,64.4
+Total justice system - March payrolls,"11,728,210","1,689,879","3,382,938","6,655,393",14.4,28.8,56.7
+Police protection - Total employees,"1,153,342","192,213","101,971","859,158",16.7,8.8,74.5
+Police protection - Full-time employees,-,-,"99,154","765,777",-,11.5,88.5
+Police protection - Full-time equivalent employment,-,-,"100,242","803,229",-,11.1,88.9
+Police protection - March payrolls,"5,971,624","1,003,357","564,336","4,403,931",16.8,9.5,73.7
+Judicial and legal - Total employees,"495,115","62,233","178,004","254,878",12.6,36,51.5
+Judicial and legal - Full-time employees,-,-,"168,705","221,585",-,43.2,56.8
+Judicial and legal - Full-time equivalent employment,-,-,"173,332","234,502",-,42.5,57.5
+Judicial and legal - March payrolls,"2,521,931","460,328","931,771","1,129,832",18.3,36.9,44.8
+Corrections - Total employees,"754,334","38,544","452,238","263,552",5.1,60,34.9
+Corrections - Full-time employees,-,-,"435,236","249,017",-,63.6,36.4
+Corrections - Full-time equivalent employment,-,-,"442,567","256,424",-,63.3,36.7
+Corrections - March payrolls,"3,234,655","226,194","1,886,831","1,121,630",7,58.3,34.7
+Note: The federal budget source provides only total employment for the federal government. That figure is included in the denominator used to compute the percent distribution of full-time employees and full-time equivalent employment for state and local governments. Local government data are estimates subject to sampling variability.,,,,,,,

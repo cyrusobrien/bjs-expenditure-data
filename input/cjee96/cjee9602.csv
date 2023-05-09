@@ -1,0 +1,48 @@
+"Bureau of Justice Statistics",,,,,,,
+"filename:  cjee9602.csv",,,,,,,
+"table #:  2 Percent distribution of employment and payrolls for the justice system ",,,,,,,
+"by level of government, October 1995",,,,,,,
+"series title:  Justice Expenditure and Employment Extracts 1996, NCJ 180883",,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,
+"authors:  Lea S. Gifford and Sue Lindgren",,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,
+"date of version:  1/13/2000",,,,,,,
+,,,,,,,
+"Table 2.   Percent distribution of employment and payrolls for the justice system by level of government, October 1995",,,,,,,
+,,,,,,,
+"(Payroll amounts in thousands of dollars)",,,,,,,
+,,,,,,,
+,,,,,"                        Percent distribution",,
+,,,,,,,
+,,"Federal","State","Local","Federal","State","Local"
+"Activity","All governments","Government","governments","governments","Government","governments","governments"
+,,,,,,,
+"Total justice system:",,,,,,,
+"Total employees",1983750,167115,634692,1181943,8.4,32.0,59.6
+"Full time employees","-","-",612774,1045148,"-",37.0,63.0
+"Full-time eqivalent employment","-","-",626409,1099394,"-",36.3,63.7
+"October payrolls",5812712,720212,1776638,3315862,12.4,30.6,57.0
+,,,,,,,
+"Police protection:",,,,,,,
+"Total employees",926086,86087,91252,748747,9.3,9.9,80.9
+"Full time employees","-","-",88688,654781,"-",11.9,88.1
+"Full-time equivalent employment","-","-",89564,689069,"-",11.5,88.5
+"October payrolls",2866683,389681,286650,2190352,13.6,10.0,76.4
+,,,,,,,
+"Judicial and legal:",,,,,,,
+"Total employees",401445,52535,130169,218741,13.1,32.4,54.5
+"Full time employees","-","-",122397,190806,"-",39.1,60.9
+"Full-time equivalent employment","-","-",127637,203448,"-",38.6,61.4
+"October payrolls",1211051,217404,428295,565352,18.0,35.4,46.7
+,,,,,,,
+"Corrections:",,,,,,,
+"Total employees",656219,28493,413271,214455,4.3,63.0,32.7
+"Full time employees","-","-",401689,199561,"-",66.8,33.2
+"Full-time equivalent employment","-","-",409208,206877,"-",66.4,33.6
+"October payrolls",1734978,113127,1061693,560158,6.5,61.2,32.3
+,,,,,,,
+"Notes:  Local government data are estimates subject to sampling variability.",,,,,,,
+"The Federal Budget source provides only total employment for the Federal Government;",,,,,,,
+"that figure is included in the denominator used to compute the percent distribution of full-time",,,,,,,
+"employees and full-time equivalent employment for State and local governments.",,,,,,,
+"This spreadsheet has been corrected since it was first released in the CJEE, 1995.",,,,,,,
